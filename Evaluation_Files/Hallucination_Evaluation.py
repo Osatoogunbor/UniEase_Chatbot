@@ -11,7 +11,7 @@ OPENAI_API_KEY = "openai_api_key"
 client = openai.OpenAI(api_key=OPENAI_API_KEY)
 
 # 3) Initialize Pinecone client
-PINECONE_API_KEY = "pcsk_4MmQQE_QVvEdpRKLtekQvxKHp9P5QUEWZe7NMzRvdZzXXheWoxTEkTYFYTqYQCYmUop3RP"
+PINECONE_API_KEY = "pinecone_api_key"
 pc = Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index("ai-powered-chatbot")  # Replace with your actual index name
 
