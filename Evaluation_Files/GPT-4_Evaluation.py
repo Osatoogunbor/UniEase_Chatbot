@@ -11,7 +11,7 @@ import seaborn as sns
 #gpt test evaluation
 
 # === 1) Initialize OpenAI client in your style ===
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="openai-api_key"
 client = openai.OpenAI(api_key=OPENAI_API_KEY)  # <-- Same approach you used before
 
 
