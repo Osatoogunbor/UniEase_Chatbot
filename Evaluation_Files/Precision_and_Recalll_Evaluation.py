@@ -10,10 +10,10 @@ df = pd.read_csv("labeled_test_queries.csv")
 
 # 2) Configure OpenAI & Pinecone
 client = OpenAI(
-    api_key="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"
+    api_key="openai_api_key"
 
     )
-pc = Pinecone(api_key="pcsk_4MmQQE_QVvEdpRKLtekQvxKHp9P5QUEWZe7NMzRvdZzXXheWoxTEkTYFYTqYQCYmUop3RP",
+pc = Pinecone(api_key="pinecone_api_key",
               environment="us-east-1-aws")
 index = pc.Index("ai-powered-chatbot")
 
