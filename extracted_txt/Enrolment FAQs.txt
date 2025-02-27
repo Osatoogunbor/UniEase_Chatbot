@@ -1,0 +1,971 @@
+## Enrolment FAQs at University of wolverhampton
+
+### Q: What information do I need for my enrolment task?
+**A:**  
+- You will need the following details to complete your enrolment:  
+  - Personal details  
+  - Contact information  
+  - Previous education  
+  - Tuition fee sponsor details  
+- Further information on enrolment can be found at:  
+  - www.wlv.ac.uk/apply/get-set/enrol-online
+
+---
+
+### Q: The course details in my enrolment task are wrong—what do I do?
+**A:**  
+- New students: Check the course you were offered before continuing. You can find this on your e:Vision or in any emails you previously received from the Admissions Team.  
+- Returning students: Log a helpcall, and further advice will be provided.
+
+---
+
+### Q: I’ve received an enrolment reminder—what should I do?
+**A:**  
+- Log into your e:Vision and select the enrolment task.  
+- Ensure all boxes show as green; this indicates a banner confirming you are fully enrolled.  
+- If you cannot view the enrolment task or you are concerned about any details, log a helpcall and further advice will be provided.
+
+---
+
+### Q: I missed my enrolment deadline and the task is asking about late enrolment—what does this mean?
+**A:**  
+- Depending on when you attempt to enrol, you may need to request late enrolment.  
+- After the first week of teaching, you can still go into e:Vision, select My Enrolment, and request the Late Enrolment task.  
+- This will be sent to your Faculty for approval.  
+- If late enrolment is no longer available under My Enrolment, contact the ASK@WLV team by logging a helpcall, calling 01902 518518, or visiting an ASK office at City, Telford, or Walsall Campus.  
+- The University can refuse late enrolment depending on how many weeks have passed since the start date.
+
+---
+
+### Q: I need to complete the identity check—what do I do?
+**A:**  
+- Some students must undergo an identity check as part of enrolment.  
+- Bring your photo ID in person to an enrolment hub. You may do this during your on-campus induction or at an ASK desk.  
+- Section A (ideal single document options):  
+  1) Passport  
+  2) European Union identity card  
+  3) Driving licence (Full or Provisional)
+
+- Section B (if you do not have one of the above, bring two items from this list):  
+  - Birth certificate/Adoption certificate  
+  - Marriage/Civil Partnership certificate  
+  - Correspondence from Student Loan Company or local authority  
+  - National insurance card  
+  - HM Forces ID card  
+  - Credit card statement  
+  - Utility bill  
+  - Home Office documents  
+  - Benefits statement (childcare, pension, etc.)
+
+---
+
+### Q: I didn’t enrol onto my course and missed the late enrolment task—what do I do?
+**A:**  
+- Enrolling ensures you have learning materials, Canvas access, and your timetable.  
+- If teaching week 3 has started, you may be behind in module content.  
+- The University needs to see if you’ve engaged enough since the start date.  
+- Speak to your Course Leader to confirm if enrolling late is possible.  
+- If they decide it is too late, log a helpcall for further advice.
+
+---
+
+### Q: The Fees section says my fees are “Home”—what does that mean?
+**A:**  
+- “Home” refers to your fee status, meaning you are classified as a Home student rather than an Overseas student.  
+- Your tuition fee is capped at the Home fee amount listed on your course page.  
+- You may qualify for financial support from the Student Loans Company, depending on your circumstances.  
+- “Home” does not specify who pays your tuition fees; a sponsor may be paying, and that information is collected later.
+
+---
+
+### Q: What is the confirmation part of the enrolment task?
+**A:**  
+- Confirmation is where you agree to the statements and confirm that you wish to be enrolled in the listed programme for the stated academic year.  
+- By accepting, you agree to follow the University’s codes of conduct and accept financial liability.
+
+---
+
+### Q: When am I required to complete the enrolment task?
+**A:**  
+- You must enrol by the end of teaching week 2 according to your academic calendar.  
+- Enrolment is the annual process where you formally agree to be a member of the University, follow its regulations, and accept liability for fees.  
+- The enrolment task is on e:Vision under My Enrolment. It appears once you have accepted your offer on e:Vision and Admissions has processed it.
+
+---
+
+### Q: I have been contacted by Profile Advantage—who are they?
+**A:**  
+- Profile Advantage administers Digital ID verification on behalf of First Adv / Know Your People.
+
+---
+
+### Q: Where can I get technical support with my DBS applications?
+**A:**  
+- First Advantage / Know Your People  
+  - Quick start guide: https://app.knowyourpeople.co.uk/help/quickstart  
+  - Telephone: 0115 969 4953  
+  - Email: support@knowyourpeople.co.uk
+## Student Check-in, Timetables, and Welcome Activities
+
+### Q: How do I check in for my sessions?
+**A:**  
+- You can access the Student Check-in system through the MyWLV app or by visiting [myattendance.wlv.ac.uk](https://myattendance.wlv.ac.uk/) if you do not have the app.  
+- Once in the check-in, you will see a list of your upcoming teaching activities. At the start of the session, select the correct activity and choose “present.”  
+- You will be asked to enter a six-digit code, provided by your tutor, to confirm your attendance.  
+
+---
+
+### Q: What do I need to do before I can view my timetable?
+**A:**  
+- You must complete your enrolment via your e:Vision account to be officially enrolled.  
+- Check that you are registered for the correct modules; these should appear on your timetable once enrolment is done.  
+- After completing enrolment, it takes up to 24 hours to gain MyWLV app access and up to 5 working days for the Timetabling Team to allocate you to your sessions.  
+- You also need to set up Microsoft Authentication (MFA) before downloading the MyWLV app.  
+  - Download the Microsoft Authenticator app to your phone.  
+  - If you have any issues with MFA, contact IT Services at 01902 322000 or ITSupport@wlv.ac.uk.  
+
+---
+
+### Q: Do I have to attend Welcome Week activities?
+**A:**  
+- Welcome Week is an important opportunity to meet your course team and learn about your course, available support, and digital systems at the University.  
+- Attendance is strongly recommended to ensure you receive the latest information relevant to your studies.  
+
+## Extensions and Late Submissions at University of Wolverhampton
+
+### Q: What is an extension?
+**A:**  
+- An extension, if granted, allows you to submit your work up to 7 calendar days after the published submission date.  
+- Extensions are only available on first attempts, and only one extension can be claimed per assessment.
+
+---
+
+### Q: What is the difference between an evidence-based extension and a self-certification extension?
+**A:**  
+- Self-Certification extensions:
+  - Limited to three per academic year.
+  - Do not require supporting evidence.
+- Evidence-Based extensions:
+  - Require documentary evidence from an independent third party.
+  - No limit on the number of claims, provided you have the necessary evidence.
+
+For more information, see the policy:  
+[Late Submission and Extension Policy](https://www.wlv.ac.uk/about-us/corporate-information/wlv-policies/late-submission-and-extension-policy-and-procedure/)
+
+---
+
+### Q: Where can I apply for an extension?
+**A:**  
+- Log into your e:Vision account through the University website or MyWLV app.
+- From the homepage, select **Assessments**, then **Extenuating Circumstances and Extensions**.
+
+---
+
+### Q: When can I apply for an extension?
+**A:**  
+- You can make an extension claim 28 days before the assessment deadline set on the system (the deadline you see in your Canvas submission portal).
+
+---
+
+### Q: Are there times when I cannot make an extension claim?
+**A:**  
+- Extensions can only be made at the first available opportunity of the module’s registration.
+- Example: If you started in September and want an extension for a Semester 1 assessment (January), you can apply then. You cannot apply for an extension in later deferred opportunities (Easter or Summer resits).
+
+---
+
+### Q: Which types of assessments can extensions apply to?
+**A:**  
+- Extensions cannot be granted for any examinations, in-class tests, group work, or practicals.
+
+---
+
+### Q: What evidence do I need for my extension claim to be granted?
+**A:**  
+- Evidence must show that exceptional and unforeseeable circumstances affected your ability to submit by the published deadline.
+- It must come from an independent third party and cover the date of your assessment.
+- It should demonstrate that you were impacted to the extent of being unable to complete on time.
+- For details on suitable evidence, see the [published extension policy](https://www.wlv.ac.uk/about-us/corporate-information/wlv-policies/late-submission-and-extension-policy-and-procedure/).  
+- If unsure or you want to discuss the requirements, log a helpcall.
+
+---
+
+### Q: How long will it take to get a decision on my extension claim?
+**A:**  
+- Evidence-based extension claims are assessed within 5 working days.
+- Self-certification claims are immediately approved.
+- You will receive a decision notification by email to the personal email address on your e:Vision record.
+
+---
+
+### Q: The assessment I wish to apply for extension for is not showing—what do I do?
+**A:**  
+1. Check that your assessment deadline is within 28 days. If it’s more than 28 days away, come back later.  
+2. If the deadline is within 28 days and you still cannot see the option to claim, ensure you can see the submission portal on Canvas:
+   - If you cannot see the Canvas submission portal, log a helpcall stating that you wish to apply for an extension (specify evidence-based or self-certification), and include the module name, code, and assessment details.
+3. If you can see the submission portal on Canvas but cannot apply for an extension, confirm:
+   - This is your first available attempt for the academic year.
+   - The assessment type is eligible (not an exam, group work, practical, etc.).
+4. If you are unsure, log a helpcall for further advice.
+
+---
+
+### Q: My deadline has passed, but I still haven’t received a decision regarding my extension claim—what do I do?
+**A:**  
+- Claims are considered within 5 working days of receiving all evidence.
+- Continue working towards the extended deadline of 7 additional days after the original due date.
+- If your claim is declined and applicable, a late submission penalty may be applied.
+
+---
+
+### Q: I applied for an evidence-based extension but would prefer a self-certification extension. Can this be changed?
+**A:**  
+- Yes, if you still have a remaining self-certification token for the current academic year.
+- Log a helpcall requesting the extension type to be changed to self-certification. Include the module name, code, and assessment details.
+
+---
+
+### Q: I have an automatic 7-day extension through my Tutor Awareness Sheet (TAS). What does this mean?
+**A:**  
+- Once registered with Disability and Inclusion, an automatic 7-day extension may be listed on your TAS.
+- This extension gives 7 additional calendar days for eligible assessments without requiring further action.
+- It does not apply to resits or ineligible assessments.
+
+---
+
+### Q: If I have a TAS extension, can I apply for another extension?
+**A:**  
+- Yes, you can apply for a further 7-day extension on e:Vision if it is available for that assessment.
+- Any late submission allowances (under the University’s policy) will not apply if a second extension is granted. You must submit within 14 days of the original deadline (before accounting for the TAS extension).
+- All usual restrictions apply, and your claim must be submitted before your revised deadline.
+
+---
+
+### Q: If I submit my work late with no extension, what happens?
+**A:**  
+- Any work submitted within 7 days after the deadline is still marked but receives a penalty:
+  - Up to 2 days late: 10% deduction from your grade.
+  - More than 2 days but up to 7 days late: 20% deduction.
+- These deductions cannot reduce a pass to a fail, so you would receive the minimum pass mark if the deduction would take you below a pass.
+
+---
+
+### Q: My claim has been set to pending—what does this mean?
+**A:**  
+- The evidence provided was insufficient to grant the claim.
+- You should have received an email with details on additional evidence needed.
+- If unsure about the required evidence, log a helpcall and the ASK@WLV Team will advise.
+
+## Extenuating Circumstances & Extensions Information
+
+### Q: Where can I find more information about extenuating circumstances and extensions at the University of Wolverhampton?
+**A:**  
+- Visit: [University Policies: Understanding Extensions and Extenuating Circumstances](https://www.wlv.ac.uk/current-students/news/october-2024/university-policies-explained-understanding-extensions-and-extenuating-circumstances.php)
+
+---
+
+## MSc Data Science and AI Course Information
+
+### Q: What is Data Science?
+**A:**  
+- Data Science is a broad field focused on deriving meaning from data.  
+- It involves the collection, processing, storage, modeling, warehousing, and analysis of data.  
+- Data Scientists use various tools, applications, and algorithms to interpret data, inform business decisions, and predict future trends.
+
+---
+
+### Q: What is Artificial Intelligence?
+**A:**  
+- Artificial Intelligence equips machines with the ability to reason by mimicking human intelligence.  
+- This is typically achieved by teaching machines through experience.  
+- AI professionals use tools like machine learning and natural language processing to build, test, and deploy models that identify patterns and make predictions.
+
+---
+
+### Q: How do Data Science and Artificial Intelligence overlap?
+**A:**  
+- The two disciplines frequently overlap; for example, machine learning relies on large data sets to train models.  
+- Data Scientists often use intelligent agents to extract insights from their data.  
+- Both fields share common methodologies while maintaining specialized modules focused on their respective areas.
+
+---
+
+### Q: Do I need prior maths or programming experience for these conversion MSc courses?
+**A:**  
+- No, these conversion courses are designed for applicants who may not have extensive maths or programming backgrounds.  
+- A free online “bridging course” is available, featuring short videos, handouts, and quizzes to bring your maths and programming skills up to speed.  
+- This support is available throughout your studies and is updated regularly.
+
+---
+
+### Q: What are the general entry requirements?
+**A:**  
+- A minimum of a 2.2 (second class honours, grade 2) in an honours degree is generally expected.  
+- Maths skills should be equivalent to GCSE grade 4 or higher.  
+- Applicants with alternative qualifications and/or industry experience may also be considered; contact the admissions team to explore your options.
+
+---
+
+### Q: What is the course duration and start dates?
+**A:**  
+- Full-time study lasts 14 months, and part-time study lasts 28 months.  
+- The extended duration accounts for industry internships/placements.  
+- There are four start dates per year: April, September, November, and February.
+
+---
+
+### Q: Is there a dissertation requirement?
+**A:**  
+- Yes, the dissertation follows BCS guidelines and requires an artefact.
+
+---
+
+## Nursing Degrees Information
+
+### Q: What are Nursing degrees at the University of Wolverhampton?
+**A:**  
+- Nursing degrees prepare you for one of the most rewarding healthcare professions by equipping you to provide essential patient support.  
+- A range of general and specialised nursing courses are available to suit different study requirements.
+
+---
+
+### Q: What are some popular undergraduate Nursing courses?
+**A:**  
+- BNurs (Hons) Adult Nursing  
+- BNurs (Hons) Adult Nursing with Foundation Year  
+- BNurs (Hons) Children's Nursing  
+- BNurs (Hons) Children's Nursing with Foundation Year  
+- BNurs (Hons) Learning Disability Nursing  
+- BNurs (Hons) Learning Disability Nursing with Foundation Year  
+- BNurs (Hons) Mental Health Nursing  
+- BNurs (Hons) Mental Health Nursing with Foundation Year  
+- BSc (Hons) Specialist Community Nursing (General Practice Nursing) (Top Up)  
+- BSc (Hons) Specialist Community Public Health Nursing (Health Visiting) (Top Up)  
+- BSc (Hons) Specialist Community Public Health Nursing (School Nursing) (Top Up)  
+- BSc Professional Practice in Healthcare (top-up)  
+- Undergraduate Credit Return to Practice (Nursing)
+
+---
+
+### Q: What Nursing postgraduate courses are available?
+**A:**  
+- MAN Adult Nursing  
+- MMHN Mental Health Nursing  
+- MSc Professional Practice in Healthcare (Leadership and Management)  
+- MSc Professional Practice in Healthcare (Speciality Practice)  
+- MSc Professional Practice in Healthcare (Teaching and Learning)  
+- PG Cert Professional Practice in Healthcare  
+- PGDip Adult Nursing  
+- PGDip Mental Health Nursing  
+- Postgraduate Credit in Advocacy and Education for Quality Improvement in Practice (A-EQUIP)
+
+---
+
+## Cyber Security Courses
+
+### Q: What Cyber Security postgraduate courses are available?
+**A:**  
+- MA Air, Space and Cyber Power Studies  
+- MSc Cyber Security  
+- MSc Cyber Security with Professional Practice
+
+---
+
+## Contact for Admissions at University of Wolverhampton
+
+### Q: How do I contact the Admissions Team?
+**A:**  
+- For pre-application queries, email:  
+  - admissions@wlv.ac.uk or internationaladmissions@wlv.ac.uk  
+- For post-application support, log a helpdesk message on your e:Vision portal at www.wlv.ac.uk/evision  
+- Phone:  
+  - Home Applicants: (+44) 01902 323505  
+  - International and EU Applicants: +441902 322230  
+- Mailing address:  
+  - University of Wolverhampton, Admissions Department, MX Building, Camp Street, Wolverhampton, WV1 1AD
+
+---
+
+## Assessment and Deadlines Information
+
+### Q: How are assessments categorized?
+**A:**  
+- Assessments are categorized by type, as outlined in your module guide on e:Vision (e.g., portfolio, examination, coursework).
+
+---
+
+### Q: Why is my deadline showing a wrong date?
+**A:**  
+- If your deadline is incorrect, log into e:Vision and raise a call using the help button.
+
+---
+
+### Q: Why are assessment deadlines not showing for one or more modules?
+**A:**  
+- Check that you are correctly registered on the module in e:Vision.  
+- If deadlines still do not appear, log a help call for further support.
+
+---
+
+### Q: What other items are shown in assessment deadlines?
+**A:**  
+- The deadlines tile may also display tasks you’ve entered into your Office 365 calendar.
+
+---
+
+### Q: What assessment deadlines are displayed?
+**A:**  
+- Only formal summative (grade-bearing) assessments are shown in the student portal.  
+- For any queries regarding what is displayed, log a call via e:Vision using the help button.
+
+---
+
+### Q: Who do I contact if timetables are incorrect or missing?
+**A:**  
+- Log a help call in e:Vision for module timetable issues.  
+- For other problems, contact IT Support via the portal.
+
+---
+
+### Q: How do I contact Faculty Student Services?
+**A:**  
+- You can contact your Faculty Student Services directly or log a call using the e:Vision helpdesk.
+
+## Cyber Security Programs at University of Wolverhampton
+
+### Q: What does the BSc Cybersecurity program offer?
+**A:**  
+- It provides fundamental knowledge and skills to protect organisations, networks, IT systems, and individuals against cyber threats, attacks, risks, and vulnerabilities.  
+- The course is fully accredited by the British Computing Society (BCS) and covers all main topic areas required for an accredited Cybersecurity degree.  
+- It includes core security concepts and skills for monitoring, detecting, investigating, analysing, and responding to issues such as cybercrime, cyberespionage, insider threats, and advanced persistent threats.  
+- The program emphasizes the practical application of these skills to maintain secure networked systems and manage information risks.
+
+---
+
+### Q: What are the industry and employment prospects for BSc Cybersecurity graduates?
+**A:**  
+- Several staff members are actively engaged in cybersecurity research and collaborate with industry to ensure the course meets current professional needs.  
+- Employment in cybersecurity is predicted to increase fivefold in the next two years, and there is a severe shortage of trained graduates.  
+- This makes the likelihood of gaining well-paid employment at the end of your degree extremely high.
+
+---
+
+### Q: What happens during the BSc Cybersecurity course?
+**A:**  
+- **First Year:**  
+  - Develop an understanding of computer architecture and how data is used in organisations.  
+  - Study programming, problem-solving, and learn how modern software applications are built and structured.  
+  - Learn to manage data in cloud and virtual environments.
+- **Second Year:**  
+  - Gain an understanding of cybersecurity architecture and operations.  
+  - Use specialist tools to study computer networks and learn techniques for protecting systems.  
+  - Acquire practical experience in ethical hacking and data mining.
+- **Final Year:**  
+  - Further develop and apply your knowledge through advanced applications and technologies in cybersecurity.  
+  - Topics include digital forensics, human factors affecting security, risk management, information governance, and cyber intelligence.  
+  - You will have the option to engage with industry on a real-life project as part of your final year module.
+
+---
+
+## MSc Cyber Security Program
+
+### Q: What is the MSc Cyber Security program?
+**A:**  
+- It is a full-time, 1-year conversion course designed to develop cutting-edge skills in cyber exploitation and defense.  
+- The program is designed by leading experts and researchers to address the increasing demand for cybersecurity professionals in both industry and academia.
+
+---
+
+### Q: What are the key details of the MSc Cyber Security program?
+**A:**  
+- **Award:** MSc  
+- **Start Dates:** September 2025, January 2025, January 2026  
+- **Course Length:** Full-time (1 year)  
+- **Campus Location:** City Campus  
+- **School:** Computing and Mathematical Sciences  
+- The course overview, entry requirements, fees & finance, modules, employability, and facilities are detailed on the University website.
+
+---
+
+### Q: How is the MSc Cyber Security course delivered?
+**A:**  
+- The program incorporates practical activities that simulate learning techniques used by industry professionals, serving as an engaging introduction to the field.
+
+---
+
+## MSc Artificial Intelligence Program Information
+
+### Q: What is the MSc Artificial Intelligence (AI) program?
+**A:**  
+- The MSc AI is a conversion course designed for students from various disciplines who wish to enhance their knowledge and skills in AI.  
+- It prepares you for a career in AI by combining technical training with management and organisational skills.
+
+---
+
+### Q: What are the key details of the MSc Artificial Intelligence program?
+**A:**  
+- **Award:** MSc  
+- **Study Options:** Part-time (28 months) and Full-time (14 months)  
+- **Start Dates:** January 2025, March 2025, September 2025  
+- **Campus Location:** City Campus  
+- **School:** Computing and Mathematical Sciences  
+- Detailed information is available on the University website under Overview, Entry Requirements, Fees & Finance, Modules, Employability, and Facilities.
+
+---
+
+### Q: Why choose the MSc Artificial Intelligence program?
+**A:**  
+- AI is increasingly critical across sectors including infrastructure, education, healthcare, and climate change.  
+- There is persistent demand for graduates with the expertise to use AI responsibly to address major challenges.  
+- The course is developed by experts to produce agile, flexible, and dynamic graduates.  
+- Scholarships (Office for Students Scholarships for Home Students Only) may be available.
+
+---
+
+### Q: What is the structure of the MSc Artificial Intelligence course?
+**A:**  
+- The course is divided into six blocks:  
+  - Four taught blocks (each including two 15-credit modules).  
+  - Two additional blocks for the Dissertation and Industry Internship.  
+- Modules vary yearly but typically cover subjects such as:  
+  - Data Science  
+  - Concepts & Technologies of Artificial Intelligence  
+  - Deep Machine Learning  
+  - Data Mining & Informatics  
+  - Intelligent Agents  
+  - Statistics with AI and Data Science  
+  - Research Methods  
+  - Project Management  
+- A pre-course induction programme in fundamental mathematics and programming is also provided.
+
+---
+
+### Q: What are the entry requirements for the MSc Artificial Intelligence program?
+**A:**  
+- A lower second class honours degree in any discipline.  
+- GCSE Grade 4 in Mathematics or equivalent.  
+- Alternatively, relevant industrial experience will be considered (with an interview process for candidates with non-standard academic backgrounds).  
+- International applicants must have equivalent qualifications and meet English language requirements.
+
+---
+
+## MSc Data Science Program Information
+
+### Q: What is the MSc Data Science conversion course about?
+**A:**  
+- The MSc Data Science is designed for graduates from diverse disciplines to equip them with cutting-edge skills for tackling global challenges through data-driven approaches.  
+- It combines theoretical learning with practical, real-world case studies and cloud training environments provided by industry partners.
+
+---
+
+### Q: What are the key details of the MSc Data Science program?
+**A:**  
+- **Award:** MSc  
+- **Study Options:** Full-time (14 months) and Part-time (28 months)  
+- **Start Dates:** January 2025, March 2025, September 2025  
+- **Campus Location:** City Campus  
+- **School:** Computing and Mathematical Sciences  
+- The course details are available under Overview, Entry Requirements, Fees & Finance, Modules, Employability, and Facilities on the University website.
+
+---
+
+### Q: Why choose the MSc Data Science course?
+**A:**  
+- It is a conversion MSc suitable for graduates from various disciplines.  
+- The course addresses the growing demand for data science skills across industries.  
+- It is developed by experts to produce agile, flexible, and dynamic graduates.  
+- A free pre-course induction programme and ongoing support in mathematics and programming are provided.  
+- Industry partners supply real-world case studies and cloud training environments.
+
+---
+
+### Q: What modules are included in the MSc Data Science course?
+**A:**  
+- Regular modules include:  
+  - Data Science  
+  - Concepts & Technologies of Artificial Intelligence  
+  - Data Visualization  
+  - Database Systems & Security  
+  - Data Mining & Informatics  
+  - Statistics with AI and Data Science  
+  - Research Methods  
+  - Project Management  
+- Students also benefit from a free pre-course induction programme in fundamental mathematics and programming.
+
+---
+
+### Q: What are the entry requirements for the MSc Data Science course?
+**A:**  
+- A lower second class honours degree in any discipline.  
+- GCSE Grade 4 in Mathematics or equivalent.  
+- Alternatively, relevant industrial experience may be considered (with an interview process for non-standard academic backgrounds).  
+- International applicants must have qualifications deemed equivalent and meet English language requirements (typically IELTS 6.5 with a minimum of 6.0 in each area).
+
+---
+
+### Q: Where can international applicants find more information about qualification equivalency?
+**A:**  
+- Visit: https://www.wlv.ac.uk/international/our-locations/your-country/
+
+---
+## Extensions and Extenuating Circumstances
+
+### Q: How do I apply for an extension at the University of Wolverhampton?
+**A:**  
+- Use e:Vision to request an extension for assessments.  
+- Alternatively, contact the ASK@WLV office for assistance.
+
+---
+
+### Q: How do I apply for an extension? (Step-by-Step)
+**A:**  
+- Step 1: Log in to e:Vision.  
+- Step 2: Go to your dashboard.  
+- Step 3: Click on "Assessments, Extenuating & Extensions."  
+- Step 4: Click on "Extenuating Circumstances."  
+- Step 5: Click on the relevant assessment.  
+- Step 6: Upload your supporting evidence.
+
+---
+
+### Q: What are the extension options?
+**A:**  
+- Evidence-based extension: Submit evidence for an additional seven days without penalty.  
+- Self-certification extension: Use one of three tokens per academic year for an additional seven days without penalty.  
+- Automatic extension: Submit up to seven days after the due date, but with a penalty to your mark.
+
+---
+
+### Q: When should I apply for an extension?
+**A:**  
+- Apply no earlier than three weeks before the submission date.  
+- If you submit after the due date, you may need to provide a valid reason.
+
+---
+
+## Stress and Time Management Tips for Students
+
+### Q: What are some tips for managing stress as a student?
+**A:**  
+- Prioritize self-care by sleeping well, eating healthily, and exercising.  
+- Break tasks into smaller steps to reduce overwhelm.  
+- Use stress-relief techniques such as deep breathing, mindfulness, or the Pomodoro technique.  
+- Avoid procrastination by setting deadlines and using task-tracking apps.  
+- Stay organized using planners or digital tools.  
+- Seek support from friends, study groups, or academic help.  
+- Limit distractions by reducing social media use and turning off notifications.
+
+---
+
+### Q: What are some additional strategies for managing academic stress?
+**A:**  
+- Exercise regularly to release endorphins and improve your mood.  
+- Aim for 7–9 hours of sleep each night and establish a calming bedtime routine.  
+- Practice mindfulness to stay aware of your thoughts and emotions.  
+- Engage in deep breathing exercises to reduce tension and relax your body.  
+- Take time for self-care activities such as meditation and eating a healthy diet.  
+- Use campus resources, practice positive self-talk, take responsibility for mistakes, forgive yourself, and focus on what you can control.
+
+---
+
+### Q: What are some suggestions for managing time better and overcoming procrastination?
+**A:**  
+- Set clear goals and prioritize tasks.  
+- Break large tasks into smaller, manageable steps.  
+- Eliminate distractions and use productivity tools like Google Calendar, Notion, or Pomofocus.  
+- Set deadlines for each task and reward yourself upon completion.  
+- Identify your peak productivity times and consider finding an accountability partner.
+
+---
+
+## Internship and Job Opportunities for Students
+
+### Q: Where can a university data science student find internships?
+**A:**  
+- Search online job boards like LinkedIn, Indeed, and Glassdoor.  
+- Check your university’s career center for exclusive internship postings.  
+- Visit company websites directly, including those of large tech companies.  
+- Explore specialized data science platforms such as Kaggle, KDNuggets, and DataJobs.  
+- Network with professors, alumni, and attend industry events and conferences.
+
+---
+
+### Q: Can you provide links to university partners that help with internships?
+**A:**  
+- Check your university's career services website for internship partnerships.  
+- Explore platforms like Bright Network and Forage.  
+- Look into specific programs such as Internship Experience UK for virtual internship options.
+
+---
+
+### Q: Are artificial intelligence students at the University of Wolverhampton eligible for internships?
+**A:**  
+- Yes, students have the opportunity to apply for paid internships with industry partners, including The Royal Wolverhampton NHS Trust and Transport for West Midlands.
+
+---
+## Internship Information for AI & Data Science Masters Students
+
+### Q: Are University of Wolverhampton Artificial Intelligence and Data Science Masters students mandated to do an internship?
+**A:**  
+- No, internships are optional.  
+- Although the program offers the opportunity to apply for an industry internship, it is not mandatory.  
+- Internship placements are based on competitive selection by employers.
+
+---
+
+### Q: What are the key points about internships for AI and Data Science students?
+**A:**  
+- Optional: Students can choose to apply for an internship, but it is not required.  
+- Competitive selection: Internship placements are offered on a competitive basis, depending on employer requirements.  
+- Industry partners: The university collaborates with industry partners to provide potential internship opportunities.  
+- No guarantee: Even if applying, there is no guarantee that a student will secure an internship.
+
+---
+
+### Q: What internship opportunities are available as part of the course?
+**A:**  
+- As part of the course, students have the opportunity to apply for a paid internship with one of the industry partners.  
+- Industry partners include The Royal Wolverhampton NHS Trust and Transport for West Midlands.
+
+---
+
+### Q: Where can I find more information about internship opportunities?
+**A:**  
+- Visit [Prospects](https://www.prospects.ac.uk) for additional details.
+
+
+### Q: How can I get a job as a student at the University of Wolverhampton?
+**A:**  
+- Contact The Workplace via email at Careers@wlv.ac.uk, by calling 01902 323 400, or by booking an appointment via Career SPACE.  
+- Use the university's careers service to find part-time jobs, work experience, and to prepare for job interviews.  
+- Look for jobs online in areas such as content creation, data entry, freelance writing, proofreading, transcribing, social media management, tutoring, and video editing.
+
+---
+
+### Q: Are there student jobs at the University of Wolverhampton?
+**A:**  
+- Yes, the University offers part-time jobs and other opportunities.  
+- Students can view listings on the university’s jobs board or contact The Workplace for assistance.
+
+---
+
+## Counselling and Support Services
+
+### Q: Can you provide the contact details for counselling services at the University of Wolverhampton?
+**A:**  
+- Mental Health and Wellbeing Team:  
+  - Email: MHWenquiries@wlv.ac.uk  
+  - Webpage: "I need help now" webpage  
+  - Offers assessments, referrals, workshops, and 1:1 sessions.  
+- Psychology Community Research Clinic:  
+  - Email: PCRC@wlv.ac.uk  
+  - Provides individual and group sessions, workshops, consultations, and therapies for anxiety, depression, and low mood.  
+- WLV Student Life Connect:  
+  - Phone: 0333 212 0672  
+  - Offers counselling, information, and advice for issues at university, home, or work.  
+- Other support services include Students Against Depression, Campaign Against Living Miserably (CALM), and Togetherall.  
+- In a crisis, contact emergency services at 999.
+
+---
+
+## Chaplaincy Information
+
+### Q: What information is available about chaplaincy at the University of Wolverhampton?
+**A:**  
+- The University Chaplaincy supports the spiritual, cultural, and pastoral needs of students and staff.  
+- It offers one-to-one support (both online and in person), hosts events to build community understanding, and provides advice and training related to faith.  
+- The Chaplaincy centre on Molineux Street offers a lounge, kitchen, and a bookable meeting room (with student bookings prioritized).
+
+---
+
+### Q: How can I contact the Chaplaincy?
+**A:**  
+- The main Chaplaincy building (MP) is located between the Housman Building (MX).  
+- Telephone: 01902 32 2903  
+- Email: chaplaincyenquiries@wlv.ac.uk or SSW@wlv.ac.uk  
+- Address: University of Wolverhampton, MP Building, Molineux Street, Wolverhampton, WV1 1DT.
+
+---
+
+## Improving Concentration in Class
+
+### Q: How can I improve concentration in class?
+**A:**  
+- Eliminate distractions by turning off your phone and choosing a quiet spot.  
+- Practice mindfulness or meditation regularly.  
+- Ensure you get enough sleep and take short breaks during class.  
+- Sit near the front, actively participate, take thorough notes, and review material beforehand.  
+- Organize your notes effectively and incorporate brief movement breaks.  
+- Use techniques like the Pomodoro Technique to manage focused study intervals.
+
+---
+
+## Managing Time and Overcoming Procrastination
+
+### Q: What are some suggestions for managing time better and overcoming procrastination?
+**A:**  
+- Set clear goals and prioritize tasks.  
+- Break large tasks into smaller, manageable steps.  
+- Eliminate distractions using productivity tools like Google Calendar, Notion, or Pomofocus.  
+- Set deadlines for each task and reward yourself upon completion.  
+- Identify your peak productivity times and consider finding an accountability partner.
+
+---
+
+## Study Materials & Resources
+
+### Q: Where can I find study materials or resources at the University of Wolverhampton?
+**A:**  
+- Academic staff can request that the Library provides key resources such as books, eBooks, print and electronic journals, digitised journal articles and book chapters, DVDs, audio-visual resources, and specialist software.  
+- Specialized resources may be purchased via negotiation with your Liaison Librarian.  
+- Requests should ideally be made before the academic year begins; email LISLiaison@wlv.ac.uk to request new resources.  
+- External resources include Inter-Library Loans (often from the British Library), SCONUL Access (http://www.sconul.ac.uk/), local Public Libraries (https://www.gov.uk/local-library-services), and WorldCat for libraries outside the UK.
+
+---
+
+## Dissertation Stress Management
+
+### Q: My dissertation deadline is close and it is causing me stress. What should I do?
+**A:**  
+- Plan and organise your day by creating a detailed to-do list with clear, achievable goals.  
+- Revisit dissertation writing videos and sessions organized by the Business School if you feel stuck.  
+- Celebrate small wins and take regular breaks to recharge; rest breaks are essential for reducing fatigue.  
+- Focus on your own progress and avoid comparing yourself with others.  
+- Support each other by setting realistic deadlines, getting fresh air, and maintaining a balanced schedule.
+
+---
+
+## Extenuating Circumstances Claims
+
+### Q: How do I apply for an extenuating circumstances claim at the University of Wolverhampton?
+**A:**  
+- Log into e:Vision and go to your dashboard.  
+- Click on "Assessments, Extenuating & Extensions" then select "Extenuating Circumstances."  
+- Choose the relevant assessment and upload your supporting evidence.
+
+---
+
+### Q: When should I apply for an extenuating circumstances claim?
+**A:**  
+- Apply before or on the assessment date and submit evidence as soon as possible.
+
+---
+
+### Q: What evidence should I provide for an extenuating circumstances claim?
+**A:**  
+- Provide independent evidence relevant to the assessment dates.  
+- Examples include medical notes, a police crime report, a supporting letter from the University Counselling Service, a supporting letter from Student Support and Wellbeing, and evidence of carer status.
+
+---
+
+### Q: What happens after I apply for an extenuating circumstances claim?
+**A:**  
+- If your claim is accepted, you will be offered the opportunity to retake the assessment without penalty.  
+- You will be notified by email with a revised submission date.
+
+---
+
+### Q: Where can I get further information about extenuating circumstances claims?
+**A:**  
+- Contact the ASK@WLV office for additional guidance.
+
+---
+
+## Helping a Friend in Need
+
+### Q: How do I help a friend who is in need and depressed at school?
+**A:**  
+- Validate what they are saying so they feel heard.  
+- Ask how you can help.  
+- Be understanding of their limitations.  
+- Avoid gossiping and consider changing the subject if needed.  
+- Remind your friend that you believe in their ability to succeed and encourage backup help from teachers when necessary.
+
+---
+
+## Part-time Work and Student Jobs
+
+### Q: How can I get a job as a student at the University of Wolverhampton?
+**A:**  
+- Contact The Workplace via email (Careers@wlv.ac.uk), by calling 01902 323 400, or by booking an appointment via Career SPACE.  
+- Use the university's careers service to find part-time jobs, work experience, and get help preparing for job interviews.  
+- Look for jobs online in fields such as content creation, data entry, freelance writing, proofreading, transcribing, social media management, tutoring, and video editing.
+
+---
+
+### Q: Are there student jobs available at the University of Wolverhampton?
+**A:**  
+- Yes, the University offers part-time jobs and other opportunities.  
+- You can view job listings on the university’s jobs board or contact The Workplace for assistance.
+
+---
+
+## Health and Wellbeing Support
+
+### Q: What support is available for health and wellbeing at the University of Wolverhampton?
+**A:**  
+- The Mental Health and Wellbeing (MHW) team offers assessments, referrals, workshops, and 1:1 sessions.  
+- Support includes free and confidential advice on topics like anxiety, confidence building, depression, homesickness, and dealing with suicidal thoughts.  
+- Additional support is available through the university library (Library Exam Support) and wellbeing champions.
+
+---
+
+### Q: How do I register with the MHW Team?
+**A:**  
+- Log into your university account and access the 24/25 MHW Registration Form.  
+- Once submitted, the team will review your form and contact you within two working days via phone or email.  
+- You may be offered an assessment appointment, so notify them at least 24 hours in advance if you need to cancel or reschedule.
+
+---
+
+### Q: What should I do if I need immediate help?
+**A:**  
+- Visit the "I need help now" webpage for urgent support.  
+- In a crisis, call emergency services by dialing 999.  
+- For additional advice, consider using crisis helplines such as Samaritans (116 123) or text CAM Crisis Messenger (85258).
+
+---
+
+### Q: What is WLV Student Life Connect?
+**A:**  
+- WLV Student Life Connect is a 24/7 online counselling, information, and advice service developed in collaboration with Care First.  
+- It offers free, confidential, independent, and impartial support for students at all levels.  
+- The service includes an online chat function, phone support, and resources covering a wide range of issues from mental health to financial advice.
+
+---
+
+### Q: What mental health app can help reduce anxiety and stress?
+**A:**  
+- The MPS app uses clinically certified content from Priory Healthcare to help reduce anxiety, stress, and low mood.  
+- It offers tools, information, and support to help students enhance their wellbeing, lead a healthier lifestyle, improve their personal wellbeing score, and identify aspects of their lifestyle that need focus.  
+- Students can create a unique share code for their counsellor and request a crisis call if needed.  
+- The app, "My Possible Self," is available for both Apple and Android devices (Organisation Code: P1uX24!).
+
+---
+
+## Improving Concentration in Class
+
+### Q: How can I improve my concentration in class?
+**A:**  
+- Eliminate distractions by turning off your phone and choosing a quiet spot.  
+- Practice mindfulness or meditation to stay focused.  
+- Ensure you get enough sleep and take short breaks during class.  
+- Sit near the front, actively participate, and take thorough notes.  
+- Review material before class to build a strong foundation for understanding.  
+- Use techniques like the Pomodoro Technique to maintain focus.
+
+---
+
+## Additional Tips for Managing Time and Overcoming Procrastination
+
+### Q: What are some suggestions for managing time better and overcoming procrastination?
+**A:**  
+- Set clear goals and prioritize tasks.  
+- Break large tasks into smaller, manageable steps.  
+- Eliminate distractions and use productivity tools (e.g., Google Calendar, Notion, Pomofocus).  
+- Set deadlines for each task and reward yourself upon completion.  
+- Identify your peak productivity times and consider partnering with an accountability buddy.
+
+---
+
+
