@@ -1,0 +1,917 @@
+Query,Expected Response,Generated Response,GPT-4 Strict Evaluation,Factual Accuracy,Alignment,Tone,Score,Justification
+How do I apply for an extension at University of Wolverhampton,"To apply for an extension at the University of Wolverhampton, log in to e:Vision, navigate to 'Assessments' > 'Extenuating Circumstances and Extensions', select the affected module, and submit your claim with relevant evidence.","To apply for an extension at the University of Wolverhampton, you can use the following methods:
+
+1. **e:Vision**: Log into your e:Vision account and request an extension for your assessments directly through the platform.
+
+2. **ASK@WLV Office**: If you need additional assistance or have specific queries, you can contact the ASK@WLV office for further guidance on how to proceed with your extension request.
+
+Ensure to check the deadlines and provide any required information or documents as part of your extension request.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and appropriate tone. It provides clear steps on how to apply for an extension at the University of Wolverhampton, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and appropriate tone. It provides clear steps on how to apply for an extension at the University of Wolverhampton, making it a perfect response.
+```"
+I need tips for managing my stress as a student and how to manage time properly,"Prioritize self-care, break tasks into smaller steps, use planners, manage distractions, and seek academic and emotional support.","**Managing Stress as a Student:**
+
+1. **Prioritize Self-Care:**
+   - Ensure adequate sleep, maintain a balanced diet, and engage in regular physical activity.
+   - Consider stress-relief techniques like deep breathing, mindfulness, or using the Pomodoro technique to manage work sessions.
+
+2. **Organize and Plan:**
+   - Break large tasks into smaller, manageable steps to avoid feeling overwhelmed.
+   - Use digital tools or planners to stay organized and track deadlines.
+
+3. **Seek Support:**
+   - Don't hesitate to reach out to friends, join study groups, or seek academic help if needed.
+   - Limit distractions by minimizing social media usage and managing notification settings.
+
+4. **Emotional Well-being:**
+   - Engage in self-care activities like meditation and practice mindfulness to keep your mental health in check.
+   - Utilize campus resources, practice positive self-talk, and learn to forgive yourself.
+
+**Effective Time Management:**
+
+1. **Awareness of Time:**
+   - Track your current time usage by making a chart or log to identify wasted time or opportunities for better use.
+   - Use any small pockets of free time effectively, like reading notes before a lecture.
+
+2. **Planning and Scheduling:**
+   - At the beginning of each semester, mark all important academic dates and personal commitments to anticipate busy periods.
+   - Use tools like Google Calendar for a visual overview and make weekly plans to stay on track.
+
+3. **Prioritizing Tasks:**
+   - Focus on urgent or high-grade-contributing tasks first.
+   - Align your effort with the importance and deadlines of assignments.
+
+4. **Effective Study Techniques:**
+   - Develop study strategies like active reading and good","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of tips for managing stress and time as a student. It directly addresses the user's query and maintains a professional and helpful tone throughout. Therefore, it deserves a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of tips for managing stress and time as a student. It directly addresses the user's query and maintains a professional and helpful tone throughout. Therefore, it deserves a perfect score.
+```"
+What are some strategies for managing academic stress,"Exercise, maintain a healthy sleep schedule, use relaxation techniques, manage time effectively, and seek support when needed.","To manage academic stress effectively, consider implementing the following strategies:
+
+1. **Regular Exercise**: Engage in physical activities to release endorphins, which can improve mood and reduce stress.
+2. **Adequate Sleep**: Aim for 7-9 hours of sleep per night and establish a calming bedtime routine to enhance sleep quality.
+3. **Mindfulness and Meditation**: Practice mindfulness to stay present and manage your thoughts and emotions. Use meditation apps like Headspace or Calm for guided sessions.
+4. **Proper Nutrition**: Maintain a healthy diet to support brain function and overall health.
+5. **Time Management**: Break tasks into manageable steps, use planners or digital tools for organization, and set realistic deadlines to avoid procrastination.
+6. **Deep Breathing and Relaxation Techniques**: Incorporate deep breathing exercises to relax your body and reduce tension.
+7. **Social and Professional Support**: Connect with friends, join study groups, or seek professional help if overwhelmed.
+8. **Self-Care and Leisure**: Allocate time for hobbies and relaxation to recharge your mental energy.
+
+These strategies can help you handle academic pressures more effectively and maintain your mental well-being.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of strategies for managing academic stress. The response directly addresses the user's query and is presented in a tone that is suitable for a university student. The information is detailed, clear, and helpful, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of strategies for managing academic stress. The response directly addresses the user's query and is presented in a tone that is suitable for a university student. The information is detailed, clear, and helpful, making it a perfect response.
+```"
+Do you have any idea where a university data science student can check for internships?,"University career centers, LinkedIn, Indeed, Kaggle, and networking with professors and industry professionals.","To find internships in data science, you can explore several avenues:
+
+1. **Online Job Boards**: Websites like LinkedIn, Indeed, and Glassdoor frequently list internship opportunities.
+2. **University Career Center**: Your university's career center may have exclusive internship postings not available elsewhere.
+3. **Company Websites**: Directly visiting the websites of tech companies can provide access to internship listings.
+4. **Specialized Platforms**: Websites such as Kaggle, KDNuggets, and DataJobs are tailored for data science opportunities.
+5. **Networking**: Engage with professors, alumni, and attend relevant industry events and conferences to learn about available internships.
+
+Remember, securing an internship in data science can be competitive and is not guaranteed, but utilizing these resources can increase your chances of finding a suitable position.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of resources where a university data science student can look for internships. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of resources where a university data science student can look for internships. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```"
+Can you give me links to some university partners that can help me with getting an internship?,"Check university career services, explore 'Bright Network' and 'Forage', and review 'Internship Experience UK' programs.","To find support for securing an internship, consider the following resources:
+
+1. **University Career Services**: Most universities have a career services department that partners with various organizations for internships. Check your university's career services website for specific partnership information and resources.
+
+2. **Online Platforms**:
+   - **Bright Network** and **Forage**: These platforms offer various internship opportunities and virtual internship experiences. Explore their websites to find programs that might align with your interests and field of study.
+   - **Internship Experience UK**: This program provides virtual internships across different sectors, which can be accessed through their platform.
+
+3. **External Websites**:
+   - **[Prospects](https://www.prospects.ac.uk)**: This site offers detailed information on available internships, including application tips and company information.
+
+4. **University-Specific Advice**:
+   - If you are at the University of Wolverhampton, you can directly reach out to the Careers and Placements team for tailored support and guidance on work placements and internships.
+
+Using these resources can significantly enhance your chances of finding a suitable internship.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a variety of resources that can assist a university student in securing an internship. The response directly addresses the user's query and provides detailed, relevant information. The tone is professional and appropriate for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a variety of resources that can assist a university student in securing an internship. The response directly addresses the user's query and provides detailed, relevant information. The tone is professional and appropriate for a university student.
+```"
+Are artificial intelligence students at the university of Wolverhampton opportuned to go for an internship?,Students can apply for paid internships with industry partners like The Royal Wolverhampton NHS Trust and Transport for West Midlands.,"Yes, artificial intelligence students at the University of Wolverhampton have the opportunity to apply for paid internships with industry partners such as The Royal Wolverhampton NHS Trust and Transport for West Midlands. While these internships are optional and not mandatory, they do provide valuable hands-on experience. Placement in these internships is competitive and based on selection by the employers.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional tone suitable for a university student. It provides specific examples of where the internships might take place, which adds credibility to the response.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional tone suitable for a university student. It provides specific examples of where the internships might take place, which adds credibility to the response.
+```"
+How can I get a job as a student at university of Wolverhampton,"Use The Workplace service, check the university job board, and explore part-time and freelance opportunities.","To secure a job as a student at the University of Wolverhampton, you can follow these steps:
+
+1. **Contact The Workplace**: Reach out for support by emailing Careers@wlv.ac.uk, calling 01902 323 400, or booking an appointment via Career SPACE.
+
+2. **Use the University’s Careers Service**: This service can help you find part-time jobs, work experience, and also provides assistance in preparing for job interviews.
+
+3. **Explore Online Job Opportunities**: Look for part-time positions in various fields such as content creation, data entry, freelance writing, proofreading, transcribing, social media management, tutoring, and video editing.
+
+4. **Check the University’s Jobs Board**: Regularly visit the jobs board for current listings and additional opportunities offered by the university.
+
+These resources are designed to help you balance work with your studies effectively.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. It provides a comprehensive answer, detailing multiple avenues for finding a job at the University of Wolverhampton.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. It provides a comprehensive answer, detailing multiple avenues for finding a job at the University of Wolverhampton.
+```"
+Are there student jobs at the university of Wolverhampton,"Yes, the university provides part-time jobs through its career services and job board.","Yes, there are student jobs available at the University of Wolverhampton. You can find part-time jobs and other employment opportunities through the university. Here are ways to access these opportunities:
+
+1. **University Jobs Board:** Check the university’s jobs board for current listings.
+2. **The Workplace:** You can contact The Workplace for assistance in finding a job. You can reach them via email at Careers@wlv.ac.uk, by calling 01902 323 400, or by booking an appointment through Career SPACE.
+3. **Careers Service:** Utilize the university's careers service to find part-time jobs, gain work experience, and receive support in preparing for job interviews.
+
+These resources can help you find jobs in various fields such as content creation, data entry, freelance writing, proofreading, transcribing, social media management, tutoring, and video editing.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. It provides detailed information on how to find student jobs at the University of Wolverhampton, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. It provides detailed information on how to find student jobs at the University of Wolverhampton, making it a perfect response.
+```"
+Can you give me the contact to the right counselling services at university of Wolverhampton,Contact the Mental Health and Wellbeing team via MHWenquiries@wlv.ac.uk or visit the 'I need help now' webpage.,"At the University of Wolverhampton, you have several options for accessing counselling and support services:
+
+1. **Mental Health and Wellbeing Team**
+   - **Email:** MHWenquiries@wlv.ac.uk
+   - **Webpage:** Visit the ""I need help now"" webpage for more information.
+   - **Services Offered:** They provide assessments, referrals, workshops, and 1:1 sessions.
+
+2. **Psychology Community Research Clinic (PCRC)**
+   - **Email:** PCRC@wlv.ac.uk
+   - **Services Offered:** This clinic offers individual and group sessions, workshops, consultations, and therapies for issues like anxiety, depression, and low mood.
+
+3. **WLV Student Life Connect**
+   - **Phone:** 0333 212 0672
+   - **Services Offered:** They provide counselling, information, and advice for challenges faced at university, home, or work.
+
+For booking a counselling session:
+- You can fill out the ""Contact Us"" form at wlv.ac.uk/SSW, register with the Mental Health and Wellbeing team, or self-refer through the online booking system for the Psychology Community Research Clinic. Drop-in sessions are also available.
+
+In case of a crisis, do not hesitate to contact emergency services at 999. For additional support, you might also consider external resources like Students Against Depression, Campaign Against Living Miserably (CALM), and Togetherall.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing detailed information about the counselling services at the University of Wolverhampton. It directly addresses the user's query and provides additional resources for support. The tone is professional and appropriate for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing detailed information about the counselling services at the University of Wolverhampton. It directly addresses the user's query and provides additional resources for support. The tone is professional and appropriate for a university student.
+```"
+I am battling anxiety and it is affecting my studies what do I do?,"Practice mindfulness, manage time effectively, seek professional help, and develop healthy coping mechanisms.","If you are experiencing anxiety that is impacting your studies, here are several steps you can take to manage and alleviate your stress:
+
+1. **Practice Deep Breathing Exercises**: Engaging in deep breathing can help calm your mind and reduce anxiety levels.
+2. **Break Tasks Into Smaller Parts**: Divide your study materials into smaller, more manageable segments. Focus on one chapter or topic at a time to avoid feeling overwhelmed.
+3. **Consult Academic Advisors**: Speak with an academic advisor about your concerns. They can offer guidance and possibly adjustments to your workload or deadlines.
+4. **Join Support Groups**: Consider joining student support groups where you can connect with peers facing similar challenges.
+5. **Seek Professional Counseling**: Don’t hesitate to reach out to a professional counselor or therapist. Many universities provide counseling services to their students.
+
+Additionally, for more specialized advice on managing exam anxiety, you can:
+- Contact your school counselor or the university's student wellbeing services. They often provide workshops and resources tailored to managing exam stress.
+- Explore online resources and guides provided by mental health charities such as Mind, YoungMinds, and Childline. These organizations offer a wealth of information and support for managing anxiety.
+
+Remember, you're not alone in this, and there are many resources available to help you cope with anxiety related to your studies.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a range of valid suggestions for managing anxiety. It directly addresses the user's query and offers comprehensive advice. The tone is appropriate, empathetic, and supportive, which is suitable for a university student dealing with anxiety.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a range of valid suggestions for managing anxiety. It directly addresses the user's query and offers comprehensive advice. The tone is appropriate, empathetic, and supportive, which is suitable for a university student dealing with anxiety.
+```"
+I need information about chaplaincy at University of Wolverhampton,"The Chaplaincy provides pastoral and spiritual support, events, and a quiet space for students. Contact chaplaincyenquiries@wlv.ac.uk.","### Chaplaincy at University of Wolverhampton
+
+**Services Offered:**
+- The University of Wolverhampton Chaplaincy provides support for the spiritual, cultural, and pastoral needs of both students and staff.
+- It facilitates one-to-one support, accessible both online and in person.
+- The Chaplaincy organizes events aimed at fostering community understanding and also offers advice and training related to various faiths.
+
+**Facilities:**
+- Located at the Chaplaincy centre on Molineux Street, the facility includes a lounge, kitchen, and a meeting room that can be booked by students.
+
+**Contact Information:**
+- **Location:** Main Chaplaincy building (MP), situated between the Housman Building (MX).
+- **Telephone:** 01902 32 2903
+- **Email:** chaplaincyenquiries@wlv.ac.uk or SSW@wlv.ac.uk
+- **Address:** University of Wolverhampton, MP Building, Molineux Street, Wolverhampton, WV1 1DT.
+
+For more specific inquiries or immediate assistance, please contact the Chaplaincy directly using the provided contact details.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing detailed information about the chaplaincy at the University of Wolverhampton. It directly addresses the user's query and provides relevant information in a professional and appropriate tone. The response is well-structured, providing services, facilities, and contact information.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing detailed information about the chaplaincy at the University of Wolverhampton. It directly addresses the user's query and provides relevant information in a professional and appropriate tone. The response is well-structured, providing services, facilities, and contact information.
+```"
+"How can I improve concentration, when I am in class I struggle to concentrate, how do I become better at concentrating","Minimize distractions, actively participate in class, take structured notes, and practice concentration techniques like the Pomodoro technique.","To improve your concentration in class, consider implementing the following strategies:
+
+1. **Eliminate Distractions**: Turn off your phone or put it on silent mode. Choose a seat in a quiet area of the classroom to minimize distractions.
+
+2. **Mindfulness and Meditation**: Regular practice of mindfulness or meditation can enhance your ability to concentrate by training your mind to focus on the present moment.
+
+3. **Adequate Sleep**: Ensure you are getting enough sleep each night, as a lack of sleep can significantly affect your concentration levels.
+
+4. **Active Participation**: Sit near the front of the class to stay engaged. Participate in discussions and ask questions to maintain focus.
+
+5. **Note-Taking and Review**: Take thorough notes during lectures and review them regularly. Preparing by reviewing material before class can also help you understand and retain the information better.
+
+6. **Short Breaks**: Incorporate short breaks during long classes to refresh your mind. This can involve standing up, stretching, or briefly walking around.
+
+7. **Pomodoro Technique**: Use time management techniques like the Pomodoro Technique, which involves studying in focused intervals (typically 25 minutes), followed by short breaks.
+
+8. **Organized Notes**: Keep your notes organized and clear. This organization can make review sessions more effective and less stressful.
+
+Implementing these strategies can help enhance your concentration in class, leading to better understanding and retention of the material.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing well-known and generally accepted strategies for improving concentration. It directly addresses the user's query about improving concentration in class, and the tone is professional and appropriate for a university student. The response is comprehensive and provides actionable advice, earning it a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing well-known and generally accepted strategies for improving concentration. It directly addresses the user's query about improving concentration in class, and the tone is professional and appropriate for a university student. The response is comprehensive and provides actionable advice, earning it a perfect score.
+```"
+Any suggestions on how to manage my time better and overcome procrastination,"Use the Pomodoro technique, set clear goals, track commitments with a calendar, find accountability partners, and reward yourself for completed tasks.","To manage your time better and overcome procrastination, consider the following strategies:
+
+1. **Set Clear Goals and Prioritize Tasks:** Clearly define what you need to accomplish and prioritize these tasks based on urgency and importance.
+
+2. **Break Tasks into Smaller Steps:** Divide larger tasks into smaller, more manageable steps to avoid feeling overwhelmed.
+
+3. **Eliminate Distractions:** Create a work environment free from distractions. Utilize productivity tools like Google Calendar, Notion, or Pomofocus to stay organized and focused.
+
+4. **Set Deadlines and Reward Yourself:** Assign specific deadlines for each task and give yourself a small reward upon completion to maintain motivation.
+
+5. **Identify Peak Productivity Times:** Work during times when you feel most alert and productive.
+
+6. **Accountability Partner:** Consider partnering with a friend or colleague who can help you stay accountable to your goals.
+
+Implementing these strategies can help you effectively manage your time and reduce procrastination.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing well-known strategies for managing time and overcoming procrastination. It directly addresses the user's query and does so in a tone that is suitable for a university student. The advice given is practical, clear, and actionable, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing well-known strategies for managing time and overcoming procrastination. It directly addresses the user's query and does so in a tone that is suitable for a university student. The advice given is practical, clear, and actionable, making it a perfect response.
+```"
+Any suggestions on where to get materials or resources at the university of Wolverhampton to help me study better.,"Access study guides, academic support from the Skills for Learning Team, and digital resources through the university library.","At the University of Wolverhampton, you have access to a variety of resources and support systems to enhance your study skills:
+
+1. **Library Resources**:
+   - You can request key study materials such as books, eBooks, journals, and audio-visual resources through the library. Contact your Liaison Librarian or email LISLiaison@wlv.ac.uk for resource acquisition.
+   - For resources not available within the university, consider using Inter-Library Loans, SCONUL Access, local public libraries, or WorldCat for international libraries.
+
+2. **Study Skills Development**:
+   - Utilize the online study guides provided by the university for planning and writing assignments. Access them [here](http://www.wlv.ac.uk/lib/skills-for-learning/study-guides/).
+   - The Skills for Learning team offers support in academic writing, research skills, and referencing. You can access their one-to-one support in the library without an appointment. More details can be found [here](http://www.wlv.ac.uk/lib/skills-for-learning/one-to-one-support/).
+
+These resources are designed to help you manage and enhance your academic performance effectively.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing specific resources available at the University of Wolverhampton. It directly addresses the user's query about where to find study materials and resources. The tone is professional and appropriate for a university student. Therefore, the response earns a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing specific resources available at the University of Wolverhampton. It directly addresses the user's query about where to find study materials and resources. The tone is professional and appropriate for a university student. Therefore, the response earns a perfect score.
+```"
+My dissertation deadline is close and it is causing me stress what do I do?,"Plan and organize tasks, take breaks, attend dissertation writing sessions, and seek academic and peer support.","To manage stress due to your approaching dissertation deadline, consider implementing the following strategies:
+
+1. **Organization and Planning**: Create a detailed to-do list with clear, achievable goals to help you stay focused and organized.
+
+2. **Utilize Resources**: Revisit any dissertation writing videos and sessions that may have been organized by your Business School to aid in your process.
+
+3. **Take Breaks**: Celebrate your progress, no matter how small, and ensure you take regular breaks to recharge. These rest periods are crucial for reducing fatigue.
+
+4. **Avoid Comparisons**: Focus on your own progress rather than comparing yourself to others, which can increase stress.
+
+5. **Support System**: Collaborate with peers to set realistic deadlines and encourage each other to maintain a balanced schedule and get fresh air.
+
+6. **Exercise and Sleep**: Regular physical activity can boost your mood, and sufficient sleep (7–9 hours) is vital for effective functioning.
+
+7. **Mindfulness and Relaxation**: Practice mindfulness and deep breathing exercises to manage anxiety and maintain mental clarity.
+
+8. **Self-care**: Engage in activities that promote well-being, such as meditation and eating a healthy diet.
+
+9. **Use Campus Resources**: Don't hesitate to use any available campus resources for additional support.
+
+10. **Positive Mindset**: Practice positive self-talk, acknowledge your efforts, and focus on elements within your control.
+
+Implementing these strategies can help you manage your stress effectively and enhance your productivity as you approach your dissertation deadline.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of strategies to manage stress related to a dissertation deadline. It directly addresses the user's query and offers practical advice. The tone is professional and appropriate for a university student, making the response highly suitable.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of strategies to manage stress related to a dissertation deadline. It directly addresses the user's query and offers practical advice. The tone is professional and appropriate for a university student, making the response highly suitable.
+```"
+How do I apply for an extenuating circumstances claim at university of Wolverhampton,"Log in to e:Vision, navigate to 'Assessments' > 'Extenuating Circumstances and Extensions', upload supporting evidence, and submit before or on the assessment date.","To apply for an extenuating circumstances claim at the University of Wolverhampton, please follow these steps:
+
+1. Log into e:Vision and access your dashboard.
+2. Navigate to ""Assessments, Extenuating & Extensions"" and select ""Extenuating Circumstances.""
+3. Choose the assessment for which you are claiming extenuating circumstances and upload any supporting evidence required.
+
+For more detailed information about the process, including guidelines on what constitutes extenuating circumstances and what evidence is needed, you can visit the [University Policies: Understanding Extensions and Extenuating Circumstances](https://www.wlv.ac.uk/current-students/news/october-2024/university-policies-explained-understanding-extensions-and-extenuating-circumstances.php) page.","```
+Factual Accuracy: No
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 3
+Justification: The chatbot's response aligns with the user's query and maintains an appropriate tone. However, the factual accuracy is compromised due to the inclusion of a broken or non-existent link, which is assumed to be incorrect as it references a future date (October 2024). 
+```",0,1,1,3,"The chatbot's response aligns with the user's query and maintains an appropriate tone. However, the factual accuracy is compromised due to the inclusion of a broken or non-existent link, which is assumed to be incorrect as it references a future date (October 2024). 
+```"
+How do I help a friend who is in need and depressed in school,"Offer emotional support, encourage professional help, provide information on university resources, stay connected, and be patient.","To help a friend who is feeling depressed at school, here are some supportive steps you can take:
+
+1. **Listen Actively**: Make sure to listen without judgment, validating their feelings and experiences to ensure they feel heard and understood.
+2. **Ask How You Can Help**: Sometimes, just asking can show that you care. They might need someone to talk to, or help finding professional resources.
+3. **Be Understanding**: Recognize that they might have limitations due to their mental health condition. Be patient and supportive.
+4. **Maintain Confidentiality**: Avoid gossiping about your friend's situation. Respect their privacy and change the subject if others bring it up.
+5. **Encourage Professional Help**: Gently suggest the benefits of seeking help from school counselors or mental health professionals available at the university.
+6. **Support Their Academic Journey**: Encourage them to speak with their teachers about possible accommodations or extensions if needed.
+7. **Stay Positive**: Remind them of their strengths and past successes to help boost their confidence.
+
+Always approach the situation with empathy and keep in mind that while you can offer support, professional help is often crucial in managing depression.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of ways to support a friend dealing with depression in school. It directly addresses the user's query and maintains a tone that is both professional and empathetic, which is suitable for a university student. 
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of ways to support a friend dealing with depression in school. It directly addresses the user's query and maintains a tone that is both professional and empathetic, which is suitable for a university student. 
+```"
+What are the library opening hours at the University of Wolverhampton?,"Library hours vary by location: Harrison and Walsall Libraries open 8:30 AM - 12 AM on weekdays, 10 AM - 10 PM on weekends. Hutchison Library operates 8:30 AM - 5 PM on weekdays, closed on weekends. Check social media for updates.","The library opening hours at the University of Wolverhampton are as follows:
+
+- **Harrison and Walsall Libraries**: Open from 8:30 AM to 12 AM on weekdays and from 10 AM to 10 PM on weekends.
+- **Hutchison Library**: Open from 8:30 AM to 5 PM on weekdays and closed on weekends.
+
+Please note that these hours can vary, especially during holiday periods. For the most current information, check the library's official website or their social media pages on Instagram and Facebook. Additionally, remember to bring your Campus ID card when visiting the library.
+
+For any assistance outside of these hours, the Library ASSIST Chat service is available 24/7.","```
+Factual Accuracy: No
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 3
+Justification: The chatbot's response is aligned with the query and the tone is appropriate. However, the factual accuracy cannot be confirmed without checking the actual library hours at the University of Wolverhampton. The chatbot should have indicated that the information provided may not be up-to-date.
+```",0,1,1,3,"The chatbot's response is aligned with the query and the tone is appropriate. However, the factual accuracy cannot be confirmed without checking the actual library hours at the University of Wolverhampton. The chatbot should have indicated that the information provided may not be up-to-date.
+```"
+How can I access past exam papers for my course at the University of Wolverhampton?,"The university does not provide past exam papers. However, you can access exam results and documents via e:Vision.","Accessing Past Exam Papers at the University of Wolverhampton:
+
+The University of Wolverhampton does not provide past exam papers for taught modules. For other academic documents such as exam results, you can access these through your e:Vision account. Navigate to the Graduation page under ""My Study"" and complete the transcript request task. If you need PDF or hard copies of these documents, follow the instructions on e:Vision or email them to yourself. Should you experience any login issues, you can use the forgotten password option or contact graduates@wlv.ac.uk with an official ID for further assistance.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query about accessing past exam papers at the University of Wolverhampton, and maintains a professional and informative tone throughout. The chatbot also provides additional information on how to access other academic documents, which could be useful to the user.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query about accessing past exam papers at the University of Wolverhampton, and maintains a professional and informative tone throughout. The chatbot also provides additional information on how to access other academic documents, which could be useful to the user.
+```"
+What are the best ways to prepare for university exams?,"Prepare for exams by making a study plan, using active learning techniques, practicing past papers, and maintaining good sleep and stress management.","To effectively prepare for university exams, consider these strategies:
+
+1. **Start Early and Plan**: Create a study schedule that allocates time for each subject, ensuring coverage of all topics. Begin your preparation well in advance to avoid cramming.
+
+2. **Use Past Papers and Practice Tests**: Familiarize yourself with the exam format and types of questions by practicing with past papers under timed conditions. This helps identify weak areas that need more focus.
+
+3. **Create Summary Sheets and Quick Reference Guides**: Condense your notes and important information into summary sheets. For open-book exams, prepare detailed indexes and tabs to quickly locate information during the exam.
+
+4. **Adapt Preparation to Exam Type**:
+   - **Multiple Choice**: Practice with similar questions to improve speed and accuracy.
+   - **Essay-Based**: Draft outlines and practice writing essays within time limits.
+   - **Open-Book**: Focus on organizing materials rather than memorization.
+   - **Oral Exams**: Enhance your understanding by discussing topics aloud and preparing for potential questions.
+   - **Practical Exams**: Engage in hands-on practice to master necessary procedures.
+
+5. **Employ Various Learning Techniques**: Combine visual, auditory, and kinesthetic learning methods to reinforce material retention.
+
+6. **Regular Review and Active Recall**: Test yourself regularly using active recall techniques to enhance memory. Review notes frequently to solidify your understanding and retention.
+
+7. **Teach What You Learn**: Explaining concepts to someone else is a powerful tool to reinforce your knowledge and identify any gaps.
+
+8. **Ask Questions**: If you’re unsure about a topic, ask for clarification to ensure you fully understand the material.
+
+9. **Stay Consistent and Avoid Last-Minute Cram","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of strategies to prepare for university exams. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. Therefore, it deserves a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of strategies to prepare for university exams. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. Therefore, it deserves a perfect score.
+```"
+Where can I get help with academic writing at the University of Wolverhampton?,"The Skills for Learning team offers drop-in sessions for writing and referencing help at Harrison, Walsall, and Hutchison Libraries. Check the website for details.","At the University of Wolverhampton, you can receive support for academic writing through the following resources:
+
+1. **Drop-in Sessions**: Available at the library, these sessions include help with academic writing and referencing. Here are the locations and times:
+   - **Harrison Library, City Campus (Ground Floor)**: Weekdays from 11am to 4pm.
+   - **Walsall Library, Ground Floor**: Tuesday to Thursday, from 11am to 2pm.
+   - **Hutchison Library, Telford**: Wednesday, from 11am to 2pm.
+
+2. **Skills for Learning Team**: This team offers support in academic writing, research skills, and referencing. You can access their help in the library without an appointment. Check availability on the [One-to-One Support - Skills for Learning](http://www.wlv.ac.uk/lib/skills-for-learning/one-to-one-support/) webpage.
+
+3. **Online Resources**: You can also develop your academic writing skills using online resources provided by the university. Visit [Study Guides - University of Wolverhampton](http://www.wlv.ac.uk/lib/skills-for-learning/study-guides/) for guides on planning and writing assignments.
+
+For more detailed information, you may visit the one-to-one support page on the University website.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing specific resources and locations within the University of Wolverhampton where the user can receive help with academic writing. It directly addresses the user's query and does so in a professional and appropriate tone. The response is thorough, detailed, and helpful, warranting a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing specific resources and locations within the University of Wolverhampton where the user can receive help with academic writing. It directly addresses the user's query and does so in a professional and appropriate tone. The response is thorough, detailed, and helpful, warranting a perfect score.
+```"
+What can I do if I fail an assignment or exam at the University of Wolverhampton?,"If you fail an exam, you may need to resit it. You can also submit an Extenuating Circumstances claim for valid reasons like illness. Appeals are possible via the ASK@WLV team.","If you fail an assignment or exam at the University of Wolverhampton, here are some steps you can consider:
+
+1. **Review and Feedback**: Request feedback on your assignment or exam to understand where you went wrong. This can provide insights into areas that need improvement.
+
+2. **Resit Opportunities**: Check if there are options to resit the exam or redo the assignment. Information about resits is usually provided by your course or module leader.
+
+3. **Extenuating Circumstances**: If you believe that personal circumstances affected your performance, you may apply for extenuating circumstances. To do this:
+   - Log into e:Vision and navigate to your dashboard.
+   - Click on ""Assessments, Extenuating & Extensions"" then select ""Extenuating Circumstances.""
+   - Choose the relevant assessment and upload your supporting evidence.
+
+4. **Academic Support**: Seek additional academic support. Contact ASK@WLV for advice on improving your study skills or consider attending relevant workshops.
+
+5. **Wellbeing Support**: If your performance was impacted by exam anxiety or other mental health issues, consider contacting the Mental Health and Wellbeing (MHW) team. They offer confidential advice and support through drop-in services and one-to-one sessions.
+
+6. **Consult Your Advisor**: Discuss your options with your academic advisor or the Faculty Student Services Office. They can provide guidance tailored to your specific situation.
+
+If you need further assistance, don’t hesitate to reach out to the appropriate university services. The key is to take proactive steps to address the issue and seek support where needed.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of steps a student can take if they fail an assignment or exam at the University of Wolverhampton. The response directly addresses the user's query and maintains a professional and helpful tone throughout. The information provided is detailed and relevant, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of steps a student can take if they fail an assignment or exam at the University of Wolverhampton. The response directly addresses the user's query and maintains a professional and helpful tone throughout. The information provided is detailed and relevant, making it a perfect response.
+```"
+How can I change my course or module at the University of Wolverhampton?,"To change a course or module, contact your Faculty Student Services Office or ASK@WLV. Requests must be approved by Registry Services.","To change your course or module at the University of Wolverhampton, you can follow these steps:
+
+1. **Contact Your Faculty Student Services Office**: They can provide advice on how to proceed with changing your course or module.
+2. **Seek Guidance from ASK@WLV**: They can help you understand the course rules and regulations that may affect your decision to change courses or modules.
+3. **Call the Central Timetabling Unit**: For urgent requests related to timetable implications, contact them at 01902 32 1091.
+4. **Module Registration Changes**: These need to be approved by Registry Services. Typically, changes are confirmed within the first three weeks of teaching.
+
+For any further assistance, you might need during the process, these resources should be your first point of contact.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, provides a detailed answer to the user's query, and maintains a professional and appropriate tone for a university student. The response also provides useful contact information and resources for the user to follow up on.
+```",1,1,1,5,"The chatbot's response is factually accurate, provides a detailed answer to the user's query, and maintains a professional and appropriate tone for a university student. The response also provides useful contact information and resources for the user to follow up on.
+```"
+What can I do if I need financial support as a student at the University of Wolverhampton?,"For financial support, contact the Funding Support Team via email or phone, or apply for the Dennis Turner Hardship Fund. Additional funding options include charitable organizations.","If you're in need of financial support as a student at the University of Wolverhampton, you have several options available:
+
+1. **Contact the Funding Support Team**:
+   - **Email**: money@wlv.ac.uk
+   - **Phone**: (01902) 321070
+   - You can also log a helpdesk call via your e:Vision account or book a drop-in appointment for direct assistance.
+
+2. **Dennis Turner Hardship Fund**:
+   - You may apply for financial support through this fund. For details and application, visit [wlv.ac.uk/fund](https://www.wlv.ac.uk/fund).
+
+3. **Explore Other Funding Sources**:
+   - Consider trust funds, charitable organizations, or advice and support from the Citizen Advice Bureau, Step Change, Christians Against Poverty, or National Debt Line for additional financial support options.
+
+These resources are designed to help you manage financial challenges during your studies at the University of Wolverhampton.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing specific resources and contact information for financial support at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout. 
+```",1,1,1,5,"The chatbot's response is factually accurate, providing specific resources and contact information for financial support at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout. 
+```"
+Are there any student discounts available in Wolverhampton?,"Students can access discounts on transport, food, and entertainment using a student ID, UNiDAYS, or Totum card.","Yes, there are student discounts available in Wolverhampton. These discounts cover a range of services and products including public transport, retail stores, food and drink, and entertainment. To access most of these discounts, you will need a valid student ID card or membership with discount platforms like UNiDAYS or the Totum card. Make sure to carry your student ID when shopping or traveling to avail these offers.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, as student discounts are common in many cities and often require a student ID or membership with a discount platform. The response directly addresses the user's query about student discounts in Wolverhampton. The tone is professional and suitable for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, as student discounts are common in many cities and often require a student ID or membership with a discount platform. The response directly addresses the user's query about student discounts in Wolverhampton. The tone is professional and suitable for a university student.
+```"
+How do I replace an ID card at the University of Wolverhampton?,"To replace a student ID, contact the Harrison Library. A replacement fee of £10 applies. You can collect it from campus or have it mailed.","To replace a student ID card at the University of Wolverhampton, you should follow these steps:
+
+1. Contact the Harrison Library at the City Campus. You can use the Library chat service to arrange for a replacement.
+2. You can choose to collect the replacement card from the Campus Library or have it posted to you.
+3. The cost for a replacement card is typically £10.
+4. If you have never had an ID card before, you should contact the Library for further assistance. If you are a staff member in need of a replacement, please contact the HR department.
+5. If you have forgotten your card and need access in the meantime, use the intercom by the barriers to contact Security or log a help call via ASK@WLV.
+
+For any further assistance, feel free to reach out to the relevant university services.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, aligns perfectly with the user's query, and maintains an appropriate tone for a university student. It provides a comprehensive step-by-step guide on how to replace an ID card at the University of Wolverhampton, addressing potential scenarios and offering additional assistance.
+```",1,1,1,5,"The chatbot's response is factually accurate, aligns perfectly with the user's query, and maintains an appropriate tone for a university student. It provides a comprehensive step-by-step guide on how to replace an ID card at the University of Wolverhampton, addressing potential scenarios and offering additional assistance.
+```"
+What is the process for reporting a lost item on campus?,"Report lost items to the Security Control Room at 01902 322106, or use the SafeZone app.","To report a lost item on campus, you can follow these steps:
+
+1. Contact the Security Control Room at 01902 322106.
+2. Alternatively, you can hand the lost item directly to a security officer or a staff member at any reception desk.
+3. You also have the option to use the ""SafeZone"" app to contact a security officer on campus.
+4. Remember, the security team is available 24/7 to assist you.
+
+These options ensure that your report is handled promptly and efficiently.","```
+Factual Accuracy: No
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 3
+Justification: The chatbot's response is aligned with the user's query and the tone is appropriate. However, the factual accuracy is questionable as the phone number and the ""SafeZone"" app are not universally applicable to all universities. The information provided seems specific to a particular institution and may not be accurate for others.
+```",0,1,1,3,"The chatbot's response is aligned with the user's query and the tone is appropriate. However, the factual accuracy is questionable as the phone number and the ""SafeZone"" app are not universally applicable to all universities. The information provided seems specific to a particular institution and may not be accurate for others.
+```"
+How can I improve my note-taking skills in lectures?,"Improve note-taking by using active listening, abbreviations, structured formats like the Cornell Method, and reviewing notes regularly.","To improve your note-taking skills in lectures, consider the following strategies:
+
+1. **Cornell Method**: This method helps organize your notes effectively. During the lecture:
+   - Divide your page into three sections: **notes**, **cues**, and **summary**.
+   - In the **notes** section, jot down the key points as they are discussed.
+   - Use the **cues** section to note down potential exam questions or important queries about the content.
+   - After the lecture, summarize the main ideas in the **summary** section.
+
+2. **Regular Review and Summarization**: Enhance retention by regularly reviewing your notes and summarizing the key concepts. This will help reinforce what you've learned and prepare you for exams.
+
+3. **Mind Mapping**: If you are a visual learner, try creating mind maps to visually connect ideas and themes discussed in the lecture.
+
+4. **Outline Method**: For structured content, use the outline method to arrange information hierarchically, making it easier to follow and understand.
+
+Additionally, to support effective note-taking:
+- Ensure you are sitting in a conducive environment, free from distractions.
+- Improve concentration by practicing mindfulness and ensuring you are well-rested before the lecture.
+- Participate actively and engage with the lecture material as this can also enhance your note-taking.
+
+By implementing these methods, you should see an improvement in your note-taking effectiveness.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a detailed and comprehensive answer to the user's query about improving note-taking skills. The tone is professional and suitable for a university student. The response fully addresses the user's question, offering various strategies and additional tips for effective note-taking.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a detailed and comprehensive answer to the user's query about improving note-taking skills. The tone is professional and suitable for a university student. The response fully addresses the user's question, offering various strategies and additional tips for effective note-taking.
+```"
+Where can I find information about postgraduate study options at the University of Wolverhampton?,"Explore postgraduate courses on the university website, including full-time, part-time, online, and CPD programs.","To find information about postgraduate study options at the University of Wolverhampton, you can:
+
+1. Visit the university's [postgraduate study information page](https://www.wlv.ac.uk) online.
+2. Explore various postgraduate programmes, which include Master’s degrees, PhD programmes, part-time courses, and accredited CPD courses.
+3. These options are aimed at providing new opportunities for retraining, career advancement, and professional development.
+
+This comprehensive approach will help you understand all the postgraduate opportunities available and how they can enhance your career and academic goals.","```
+Factual Accuracy: No
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 3
+Justification: The chatbot's response is aligned with the query and the tone is appropriate. However, the factual accuracy is compromised because the link provided does not specifically lead to the postgraduate study information page of the University of Wolverhampton, but rather to the general homepage.
+```",0,1,1,3,"The chatbot's response is aligned with the query and the tone is appropriate. However, the factual accuracy is compromised because the link provided does not specifically lead to the postgraduate study information page of the University of Wolverhampton, but rather to the general homepage.
+```"
+What is the process of getting a reference letter from a lecturer?,"Request a reference by asking a lecturer, providing details like your student ID, CV, and the submission deadline.","To obtain a reference letter from a lecturer, you should follow these steps:
+
+1. **Direct Request**: Contact the lecturer directly, ideally in person or via email. Provide them with your full name, student ID, transcripts, and a current CV.
+
+2. **Purpose and Details**: Clearly specify the purpose of the reference letter, the deadline by which it needs to be completed, and the recipient’s address or submission instructions.
+
+3. **Allow Sufficient Time**: Give the lecturer enough time to write the letter, considering their schedule and commitments.
+
+4. **Submission Requirements**: Confirm that the reference letter will be provided on official university letterhead, and ensure it includes the date and the lecturer’s signature. Check if the letter needs to be submitted as a PDF or sent directly via email.
+
+By following these guidelines, you can facilitate the process for both yourself and the lecturer, ensuring the reference letter accurately supports your application or purpose.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a detailed and correct process for obtaining a reference letter from a lecturer. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a detailed and correct process for obtaining a reference letter from a lecturer. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```"
+How do I book a study space at the University of Wolverhampton?,"Book a study space via the online booking system, MyWLV app, or QR codes in the library. Remember to check in within 30 minutes.","To book a study space at the University of Wolverhampton, you can use the MyWLV app or scan the QR codes posted outside the study rooms. The library provides various study environments including individual study rooms, which can be booked for up to 4 hours, and group study rooms, which can be reserved for up to 2 hours. Ensure to check in upon your arrival at the booked room.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate and directly addresses the user's query. The tone is professional and suitable for a university student. It provides detailed instructions on how to book a study space at the University of Wolverhampton, making it a perfect response.
+```",1,1,1,5,"The chatbot's response is factually accurate and directly addresses the user's query. The tone is professional and suitable for a university student. It provides detailed instructions on how to book a study space at the University of Wolverhampton, making it a perfect response.
+```"
+What support is available for students with disabilities at the University of Wolverhampton?,"Support for students with disabilities includes Disabled Students' Allowance, reasonable adjustments, and specialist equipment. Contact the Disability and Inclusion Team for assistance.","At the University of Wolverhampton, students with disabilities have access to a range of supportive measures to facilitate their academic and personal success:
+
+1. **Disabled Students' Allowance (DSA)**: This financial support helps cover costs for specialist equipment, non-medical helpers, additional travel, and specific materials needed due to a disability.
+
+2. **Reasonable Adjustments**: These include automatic extensions, extended library loans, and access to accessible software, tailored to assist in overcoming barriers related to a disability.
+
+3. **Support Teams**:
+   - **Disability and Inclusion Team**: Offers guidance and support specific to disabilities.
+   - **Student Support and Wellbeing Services**: Provides broader support which includes the Disability and Inclusion Team's services.
+
+4. **Application Process**: To access these supports, you should indicate your disability on your university application, complete a Self-Declaration Form, and provide proof of your condition from a medical professional.
+
+Additionally, for students with long-term mental health conditions, the university offers:
+   - Support from the Mental Health and Wellbeing (MHW) team, including assessments, one-on-one sessions, and workshops.
+   - Access to Student Minds and WLV Student Life Connect, a 24/7 digital support platform.
+   - The possibility of reasonable adjustments through the Disability and Inclusion Team.
+
+For specific services and to initiate support, contact the MHW team at MHWenquiries@wlv.ac.uk or complete the necessary registration forms. These comprehensive services ensure that all students with disabilities or specific learning difficulties receive the necessary support to thrive at the University of Wolverhampton.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a detailed overview of the support available for students with disabilities at the University of Wolverhampton. It directly addresses the user's query and does so in a professional and informative tone, suitable for a university student. The information is comprehensive and well-structured, making it easy to understand.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a detailed overview of the support available for students with disabilities at the University of Wolverhampton. It directly addresses the user's query and does so in a professional and informative tone, suitable for a university student. The information is comprehensive and well-structured, making it easy to understand.
+```"
+How do I book a counselling session at the University of Wolverhampton?,Book a counselling session by filling out the contact form on the Student Support and Wellbeing (SSW) page or attending a drop-in session.,"To book a counselling session at the University of Wolverhampton, you have several options:
+
+1. **Online Form**: Fill out the Contact Us form available at [wlv.ac.uk/SSW](https://www.wlv.ac.uk/SSW).
+2. **Mental Health and Wellbeing Team**: Register with the Mental Health and Wellbeing (MHW) team for services like assessments, referrals, and 1:1 sessions. You can contact them via email at MHWenquiries@wlv.ac.uk or visit their ""I need help now"" webpage for more information.
+3. **Psychology Community Research Clinic (PCRC)**: You can self-refer through the online booking system for individual or group sessions, workshops, and therapies for conditions like anxiety and depression. Contact them via email at PCRC@wlv.ac.uk.
+4. **Drop-in Sessions**: These are also available if you prefer a more immediate, less formal consultation.
+
+For any further assistance, you can contact the WLV Student Life Connect at 0333 212 0672 for counselling and advice. In case of a crisis, please contact emergency services at 999.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing specific and detailed information on how to book a counselling session at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. The response is comprehensive, covering multiple options for booking a session, and even includes emergency contact information, which is a thoughtful addition.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing specific and detailed information on how to book a counselling session at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. The response is comprehensive, covering multiple options for booking a session, and even includes emergency contact information, which is a thoughtful addition.
+```"
+What should I do if I am struggling with academic stress?,"Manage academic stress by identifying triggers, creating a study plan, using relaxation techniques, and seeking professional support.","If you are struggling with academic stress, here are some effective strategies you can consider:
+
+1. **Exercise Regularly**: Physical activity can help release endorphins, improving your mood and reducing stress.
+2. **Adequate Sleep**: Aim for 7–9 hours of sleep each night and develop a calming bedtime routine to improve sleep quality.
+3. **Mindfulness and Meditation**: Engage in mindfulness exercises or meditation to help manage your thoughts and emotions. Apps like Headspace or Calm can assist you in starting a meditation practice.
+4. **Deep Breathing Exercises**: These can help reduce tension and relax your body, making it easier to handle stress.
+5. **Self-Care**: Take time for self-care activities such as eating a healthy diet and engaging in hobbies you enjoy.
+6. **Utilize Campus Resources**: Don’t hesitate to use campus support services, including counseling and academic support centers.
+7. **Positive Self-Talk and Forgiveness**: Practice positive self-talk, take responsibility for your mistakes, forgive yourself, and focus on aspects within your control.
+
+Implementing these strategies can help you manage and reduce academic stress effectively. If you find these strategies insufficient, consider seeking professional support.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a range of strategies that are commonly recommended for managing academic stress. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student. Therefore, it deserves a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a range of strategies that are commonly recommended for managing academic stress. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student. Therefore, it deserves a perfect score.
+```"
+Are there mental health workshops or events at the University of Wolverhampton?,"Mental health events include psycho-educational workshops, Wellbeing Days, and Let’s Talk sessions. Contact the MHW team for schedules.","Yes, the University of Wolverhampton offers a variety of mental health workshops and events designed to support students. These include psycho-educational workshops, Wellbeing Days, and ""Let's Talk"" sessions. These events are run by mental health professionals and aim to provide students with techniques for managing mental health challenges. Additionally, the university offers drop-in services and various student support initiatives to further assist with mental health needs.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. The detailed information provided about the mental health workshops and events at the University of Wolverhampton demonstrates a high level of correctness and alignment with the query.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and informative tone suitable for a university student. The detailed information provided about the mental health workshops and events at the University of Wolverhampton demonstrates a high level of correctness and alignment with the query.
+```"
+Where can I get advice on managing exam anxiety?,"Manage exam anxiety by consulting a school counselor, using relaxation techniques, and accessing self-help resources from organizations like Mind and YoungMinds.","To manage exam anxiety effectively, you have several options available:
+
+1. **University Resources**: At the University of Wolverhampton, you can consult the Mental Health and Wellbeing (MHW) team. They offer free and confidential advice, and you can participate in their drop-in services or one-to-one sessions. For more details, visit the university's student support portal.
+
+2. **General Advice**: 
+   - Seek guidance from school counselors or mental health professionals available at your institution.
+   - Utilize resources such as workshops and online materials provided by your university aimed at managing exam stress.
+
+3. **External Organizations**:
+   - Consider exploring resources and support from mental health charities like Mind, YoungMinds, and Childline, which offer helpful information for managing stress and anxiety.
+
+4. **Personal Strategies**:
+   - Practice deep breathing exercises.
+   - Break study tasks into smaller, manageable parts.
+   - Discuss your concerns with academic advisors or join support groups.
+   - Consider professional counseling if the anxiety persists.
+
+These resources and strategies can provide you with support and tools to help cope with exam-related anxiety.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of resources and strategies for managing exam anxiety. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. Hence, it deserves a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of resources and strategies for managing exam anxiety. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student. Hence, it deserves a perfect score.
+```"
+Where can I get advice on managing exam anxiety at the University of Wolverhampton?,"At the university, exam anxiety support includes workshops, self-help apps, and confidential advice from the MHW team.","At the University of Wolverhampton, you can get support for managing exam anxiety through the following resources:
+
+1. **Mental Health and Wellbeing (MHW) Team**: They offer free, confidential advice specifically aimed at managing exam anxiety. You can access their services through drop-in sessions or schedule one-to-one meetings.
+
+2. **Student Support Portal**: Check the university's student support portal for more details on available sessions and how to book them.
+
+3. **University Library and Wellbeing Champions**: During exam periods, additional support is available through the university library and Wellbeing Champions. More information can be found on the University of Wolverhampton's website under Library Exam Support.
+
+These resources are designed to help you manage your exam stress effectively. Don't hesitate to reach out to them for support.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, as it provides specific resources available at the University of Wolverhampton for managing exam anxiety. It directly addresses the user's query and does so in a tone that is professional and appropriate for a university student. The response is comprehensive, detailed, and offers a variety of options for the user to explore.
+```",1,1,1,5,"The chatbot's response is factually accurate, as it provides specific resources available at the University of Wolverhampton for managing exam anxiety. It directly addresses the user's query and does so in a tone that is professional and appropriate for a university student. The response is comprehensive, detailed, and offers a variety of options for the user to explore.
+```"
+How can I get involved in mindfulness and meditation groups on campus?,Join mindfulness and meditation sessions at the Students’ Union. Check the university events page for schedules.,"To get involved in mindfulness and meditation groups on campus, you can take advantage of the free mindfulness sessions offered, such as breathwork sessions at the Students’ Union. Mindfulness practices can help you reduce stress and improve your focus. Keep an eye on the university's event pages or announcements from the Students’ Union for upcoming sessions. Additionally, if you are looking to practice mindfulness on your own, you can find free exercises online at sites like [franticworld.com/free-meditations-from-mindfulness](http://franticworld.com/free-meditations-from-mindfulness/).","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate as it provides a plausible way to get involved in mindfulness and meditation groups on campus. It aligns perfectly with the user's query, providing specific actions the user can take. The tone is appropriate, informative and helpful, suitable for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate as it provides a plausible way to get involved in mindfulness and meditation groups on campus. It aligns perfectly with the user's query, providing specific actions the user can take. The tone is appropriate, informative and helpful, suitable for a university student.
+```"
+What do I do if I am feeling lonely at university?,"Combat loneliness by joining societies, volunteering, connecting with classmates, and utilizing university support services.","If you're feeling lonely at university, here are some effective strategies you can try:
+
+1. **Join Clubs and Societies**: Engage with student organizations that align with your interests. For example, if you enjoy photography or debating, look for a photography or debate club. This can be a great way to meet people with similar interests.
+
+2. **Attend Social Events**: Participate in university events, especially those like welcome week, which are designed to help new students connect with one another.
+
+3. **Connect with Classmates**: Try to build relationships with your peers in classes or study groups. This can also enhance your academic experience.
+
+4. **Participate in University Activities**: Beyond clubs and social events, get involved in other campus activities that can increase your interaction with different groups of students.
+
+5. **Consider Counseling Services**: If loneliness starts to feel overwhelming, remember that university counseling services are available. Talking to a professional can provide support and strategies to manage your feelings.
+
+6. **Build New Support Networks**: Let your friends or flatmates know how you feel, as they can offer support. You might also explore local or online support groups.
+
+7. **Take Time for Yourself**: Ensure you schedule time to relax and do activities you enjoy, which can help you recharge and feel less isolated.
+
+Remember, it's okay to ask for help if you're feeling overwhelmed. Connecting with others and taking care of your mental well-being are important steps towards overcoming loneliness.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of strategies to combat loneliness at university. It directly addresses the user's query and maintains a supportive and professional tone throughout, which is appropriate for a university student. Therefore, it deserves a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of strategies to combat loneliness at university. It directly addresses the user's query and maintains a supportive and professional tone throughout, which is appropriate for a university student. Therefore, it deserves a perfect score.
+```"
+How do I access emergency mental health support as a student?,"Emergency mental health support is available via the university crisis helpline, security services, and external resources like Samaritans.","If you are in need of emergency mental health support as a student, here are several options you can consider:
+
+1. **University Counseling Services**: Contact your university's counseling center. Many universities offer crisis intervention services.
+
+2. **24/7 Crisis Helplines**: If it's outside of office hours or you need immediate help, call a 24/7 crisis helpline. These services are available to provide support at any time.
+
+3. **Resident Advisors and Faculty**: If you are living in dorms, you can reach out to resident advisors or trusted faculty members who are trained to help in crisis situations.
+
+4. **Emergency Services**: If you feel you are in danger, do not hesitate to call emergency services for immediate assistance.
+
+5. **On-Call Counselors**: Many universities have on-call counselors available for crisis situations. Check your university’s emergency support webpage for contact information.
+
+6. **""I Need Help Now"" Webpage**: Visit this webpage provided by your university for additional support options and resources.
+
+7. **Friends and Family**: Talking to someone you trust can also provide emotional support and help keep you safe.
+
+8. **Local Helplines**: For specialized support, such as mental health or sexual assault, local helplines can provide guidance and assistance.
+
+Remember, it is important to seek help and not isolate yourself during a crisis. Your university and community have resources set up to support you.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of options for a student seeking emergency mental health support. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student in crisis.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of options for a student seeking emergency mental health support. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student in crisis.
+```"
+What self-care strategies can I use to manage university stress?,"Practice self-care by exercising, eating well, prioritizing sleep, and using relaxation techniques like mindfulness.","To manage university stress effectively, consider these self-care strategies:
+
+1. **Regular Exercise**: Engage in physical activities to release endorphins, which can naturally improve your mood.
+2. **Adequate Sleep**: Aim for 7–9 hours of sleep per night and establish a calming bedtime routine to help you unwind.
+3. **Mindfulness Practices**: Incorporate mindfulness exercises to stay present and aware of your emotions, reducing stress levels.
+4. **Deep Breathing Exercises**: Use deep breathing techniques to help relax your body and lower tension.
+5. **Healthy Eating**: Maintain a balanced diet to support your overall health and energy levels.
+6. **Break Tasks into Steps**: Manage academic work by breaking tasks into smaller, manageable steps to avoid overwhelm.
+7. **Organization Tools**: Stay organized with the help of planners or digital tools to keep track of assignments and deadlines.
+8. **Limit Distractions**: Reduce social media usage and turn off notifications to focus better on your studies.
+9. **Seek Support**: Don't hesitate to use campus resources or seek help from peers, study groups, or academic advisors.
+10. **Positive Self-Talk and Forgiveness**: Practice positive self-talk, accept mistakes, forgive yourself, and focus on what you can control.
+
+By integrating these strategies into your daily routine, you can better manage stress and enhance your university experience.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of self-care strategies that are known to help manage stress. It directly addresses the user's query about managing university stress. The tone is professional and suitable for a university student, offering advice without being condescending or overly casual. 
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of self-care strategies that are known to help manage stress. It directly addresses the user's query about managing university stress. The tone is professional and suitable for a university student, offering advice without being condescending or overly casual. 
+```"
+Who do I contact for support if I am experiencing a crisis?,"For crisis support, contact University Emergency Services, the 24/7 crisis helpline, or external organizations like Samaritans.","If you are experiencing a crisis, here are several options for immediate support:
+
+1. **Contact University Emergency Services**: This should be your first step in a crisis situation.
+2. **24/7 Crisis Support**: Visit the university's 24/7 crisis support webpage or call the 24/7 crisis helpline, especially if the crisis occurs outside office hours.
+3. **Emergency Services**: If you are in immediate danger, call emergency services by dialing 999.
+4. **On-Call Counselors**: Reach out to on-call counselors available through the university.
+5. **Residential Advisor**: If you live in university housing, contact your residential advisor who can provide immediate assistance or guidance.
+
+For additional support, consider:
+- **University Counseling**: Accessible during office hours for emotional crises.
+- **Local Helplines**: Utilize local helplines for specific issues like mental health or sexual assault.
+- **Emergency Financial Aid**: Contact the university if your crisis involves urgent financial issues.
+
+If you feel overwhelmed late at night:
+- **24/7 Crisis Helpline**: Available for immediate help. 
+- **Stay Connected**: Text a friend or family member to keep a line of communication open until you can access further help.
+
+For more detailed resources and contacts, please visit the ""I need help now"" webpage on the university's website.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a comprehensive list of resources for someone in crisis. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student. The response is thorough, well-structured, and provides a variety of options for immediate and additional support.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a comprehensive list of resources for someone in crisis. It directly addresses the user's query and does so in a tone that is both professional and empathetic, which is suitable for a university student. The response is thorough, well-structured, and provides a variety of options for immediate and additional support.
+```"
+What services are available for students with long-term mental health conditions at the university?,"Long-term mental health support includes MHW team services, WLV Student Life Connect, and reasonable adjustments via the Disability and Inclusion Team.","The University of Wolverhampton provides a range of support services for students with long-term mental health conditions, ensuring comprehensive assistance through various programs and teams. Here are the key services available:
+
+1. **Mental Health and Wellbeing (MHW) Team**: This team offers assessments, one-on-one sessions, and workshops tailored to support students' mental health needs.
+
+2. **Student Minds**: This is a student-led mental health charity that operates within the university to provide peer support and promote mental health awareness.
+
+3. **WLV Student Life Connect**: A 24/7 digital support platform that students can access anytime for mental health resources and assistance.
+
+4. **Disability and Inclusion Team**: They provide additional support and reasonable adjustments for students with long-term mental health conditions to aid their academic and social experiences at the university.
+
+5. **University Counselling Service and Mental Health Advisers**: Professional counselling services and specialized advisers are available to help students manage their mental health effectively.
+
+6. **Wellbeing Workshops and Online Self-Help Resources**: These resources offer practical advice and strategies for managing mental health and wellbeing.
+
+7. **24/7 Crisis Support**: Immediate support is available around the clock for students experiencing a mental health crisis.
+
+For more detailed information or to access these services, students are encouraged to contact the MHW team by completing a registration form or emailing MHWenquiries@wlv.ac.uk. Additionally, the university's approach includes clear signposting to both internal and external services, ensuring students know where and how to seek help.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing a detailed list of services available for students with long-term mental health conditions at the University of Wolverhampton. It directly addresses the user's query and does so in a tone that is professional and appropriate for a university student. The response is comprehensive, informative, and well-structured, earning it a perfect score.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing a detailed list of services available for students with long-term mental health conditions at the University of Wolverhampton. It directly addresses the user's query and does so in a tone that is professional and appropriate for a university student. The response is comprehensive, informative, and well-structured, earning it a perfect score.
+```"
+How do I log in to my e:Vision account?,"Log in to e:Vision with your student number and password. If you forget your password, use the reset function or contact IT support.","To log in to your e:Vision account, please follow these steps:
+
+1. Use your student number as your username.
+2. Enter the password you previously created.
+3. If this is your first time logging in, you will be prompted to create a new password.
+4. If you have forgotten your password, click on the ""Forgotten Password"" option for recovery steps, or contact your school's student office or the IT Service Desk at 01902 322000 or extension 2000 for assistance.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate and directly addresses the user's query. The tone is professional and suitable for a university student. It provides a thorough step-by-step guide on how to log in to an e:Vision account, including what to do if it's the user's first time logging in or if they've forgotten their password.
+```",1,1,1,5,"The chatbot's response is factually accurate and directly addresses the user's query. The tone is professional and suitable for a university student. It provides a thorough step-by-step guide on how to log in to an e:Vision account, including what to do if it's the user's first time logging in or if they've forgotten their password.
+```"
+Where can I find my exam timetable on e:Vision?,Find your exam timetable on e:Vision under My Study > My Modules > Exam Timetable. Check regularly for updates.,"To find your exam timetable on e:Vision, please follow these steps:
+
+1. Log in to your e:Vision account.
+2. Navigate to ""My Study"" > ""My Modules"" > ""Exam Timetable.""
+3. Check this section for your exam schedule.
+
+Additionally, you will be notified via email when your timetable is available. Make sure your contact email is up-to-date in e:Vision. Timetables may change, so it's a good idea to check regularly. If you have any questions or need further assistance, you can contact the ASK@WLV student enquiry team.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and helpful tone. It provides clear, step-by-step instructions on how to find the exam timetable on e:Vision, and offers additional useful information about email notifications and timetable changes. 
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and helpful tone. It provides clear, step-by-step instructions on how to find the exam timetable on e:Vision, and offers additional useful information about email notifications and timetable changes. 
+```"
+What are the rules for submitting coursework on Canvas?,Submit coursework via Canvas. Late submissions are accepted up to seven days with penalties. Automatic extensions are available for some modules.,"### Rules for Submitting Coursework on Canvas:
+
+1. **Submission Method**:
+   - Assignments must be submitted online through the Canvas portal.
+
+2. **Submission Formats**:
+   - Avoid submitting both electronic and hard copies of the same assignment.
+
+3. **Late Submissions**:
+   - Late submissions are permitted up to seven calendar days after the deadline with the following penalties:
+     - Up to 2 days late: 10% deduction from the total mark.
+     - More than 2 days but up to 7 days late: 20% deduction from the total mark.
+
+4. **Extensions and Extenuating Circumstances**:
+   - Extensions and allowances for extenuating circumstances are available according to university policies.
+
+5. **Marking**:
+   - All assessments, regardless of the submission format, are marked within Canvas.
+
+### Additional Information on Extenuating Circumstances:
+
+- If you have been granted extenuating circumstances but decide to submit your work, ensure the deadline has not passed.
+- Cancel your extenuating circumstances claim on e:Vision under My Study → Modules → Extensions and Extenuating Circumstances → Extenuating Circumstances.
+- After cancelling, proceed to submit your work via Canvas.
+- Attending in-class tests, exams, or presentations will automatically cancel your extenuating circumstances claim when your grade is recorded.
+
+These guidelines should help ensure your coursework submissions on Canvas are correctly handled and comply with university policies.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, as it provides a comprehensive overview of the rules for submitting coursework on Canvas, which is the user's query. The tone is formal and appropriate for a university student. The response is well-structured and detailed, making it easy for the user to understand the rules.
+```",1,1,1,5,"The chatbot's response is factually accurate, as it provides a comprehensive overview of the rules for submitting coursework on Canvas, which is the user's query. The tone is formal and appropriate for a university student. The response is well-structured and detailed, making it easy for the user to understand the rules.
+```"
+Where do I find my personal tutor’s details?,Find your personal tutor’s details in e:Vision under My Studies. Contact your Faculty Student Services if you need assistance.,"To find your personal tutor's details, please follow these steps:
+
+1. Log in to your e:Vision account.
+2. Navigate to the ""My Studies"" section.
+3. Your personal tutor’s contact details, including their email and phone number, will be listed there.
+
+If you encounter any issues finding this information, you can contact your Faculty Student Services or log a help call via e:Vision for further assistance.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and helpful tone suitable for a university student. It provides clear instructions and offers further assistance if needed, demonstrating a high level of user support.
+```",1,1,1,5,"The chatbot's response is factually accurate, directly addresses the user's query, and maintains a professional and helpful tone suitable for a university student. It provides clear instructions and offers further assistance if needed, demonstrating a high level of user support.
+```"
+Where can I access career guidance services at the University of Wolverhampton?,"Career guidance services are available through The Workplace. Book an appointment via Career SPACE, or email Careers@wlv.ac.uk.","At the University of Wolverhampton, you can access career guidance services through the following resources:
+
+1. **Careers Appointment Services**: Available to all current students, including those on Higher Apprenticeships and Degree Apprenticeships, alumni on a lifelong basis, and prospective students. Prospective students should contact The Gateway at 01902 321032 or email gateway@wlv.ac.uk.
+
+2. **The Workplace**: For assistance in finding part-time jobs, work experience, and interview preparation, you can contact The Workplace via email at Careers@wlv.ac.uk, by calling 01902 323 400, or by booking an appointment through Career SPACE.
+
+These services are designed to support your career development during and after your studies at the University of Wolverhampton.","```
+Factual Accuracy: Yes
+Alignment with Query: Yes
+Tone Appropriateness: Yes
+Score: 5
+Justification: The chatbot's response is factually accurate, providing specific resources and contact information for career guidance services at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```",1,1,1,5,"The chatbot's response is factually accurate, providing specific resources and contact information for career guidance services at the University of Wolverhampton. It directly addresses the user's query and maintains a professional and informative tone throughout, making it suitable for a university student.
+```"
