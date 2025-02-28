@@ -4,9 +4,10 @@
 It uses the same logic as the main chatbot code only that this is a local version
 Which can only be used for testing purposes.
 """
-
 import asyncio
 import nest_asyncio
+from pinecone.data.index import Index
+
 nest_asyncio.apply()  # Allow nested event loops in Jupyter
 
 import os
@@ -16,8 +17,9 @@ import numpy as np
 
 from dotenv import load_dotenv
 from openai import AsyncOpenAI
-from pinecone import Pinecone, ServerlessSpec
+from pinecone import Pinecone
 from transformers import pipeline
+
 # --------------------------------------------------------------------------
 # 1. LOAD ENVIRONMENT & INITIALIZE
 # --------------------------------------------------------------------------
@@ -38,18 +40,13 @@ if not PINECONE_ENV:
 openai.api_key = OPENAI_API_KEY
 client = AsyncOpenAI(api_key=OPENAI_API_KEY)
 
-pc = Pinecone(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
+# Initialize Pinecone connection with your API key from the environment
+pc = Pinecone(api_key=PINECONE_API_KEY)
 
-# --------------------------------------------------------------------------
-# 2. CONNECT OR CREATE THE PINECONE INDEX
-# --------------------------------------------------------------------------
-INDEX_NAME = "ai-powered-chatbot"
-index = pc.Index(INDEX_NAME)  # Directly connect to the existing Pinecone index
-print("✅ Connected to Pinecone index:", INDEX_NAME)
+# Connect to the existing Pinecone index using the new API:
+index = pc.Index("ai-powered-chatbot")
 
-index = pc.Index(INDEX_NAME)
 print("✅ Pinecone index connected successfully!\n")
-
 
 # ✅ Load Sentiment Analysis Model
 sentiment_analyzer = pipeline(
@@ -97,7 +94,6 @@ async def retrieve_chunks(query: str, top_k: int = 5) -> list[dict]:
         )
         query_vector = embedding_response.data[0].embedding
 
-        # Query Pinecone
         result = index.query(vector=query_vector, top_k=top_k, include_metadata=True)
 
         if not result.matches:
@@ -127,7 +123,7 @@ async def retrieve_chunks(query: str, top_k: int = 5) -> list[dict]:
             print("⚠️ Emergency-related query detected! Prioritizing emergency responses.")
             return sorted(emergency_chunks, key=lambda x: -x["score"])
 
-        # Reranking: Sort by score and source balance
+        # Reranking: Sort by score
         sorted_chunks = sorted(retrieved_chunks, key=lambda x: -x["score"])
         print(f"✅ Retrieved {len(sorted_chunks)} chunks from Pinecone after reranking.")
         return sorted_chunks

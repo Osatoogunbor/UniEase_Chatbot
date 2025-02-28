@@ -5,26 +5,56 @@
 # This script contains the code is for embedding the knowledge base
 and storing it into Pinecone.
 """
+#!/usr/bin/env python3
+
 import os
 import json
 import time
-import streamlit as st
-from openai import OpenAI
-from pinecone import Pinecone
+import openai
+from dotenv import load_dotenv
+from pinecone import Pinecone, ServerlessSpec
 import tiktoken
 
-OPENAI_API_KEY = st.secrets["openai_api_key"]
-PINECONE_API_KEY = st.secrets["pinecone_api_key"]
+# --------------------------------------------------------------------------
+# 1. LOAD ENVIRONMENT & INITIALIZE
+# --------------------------------------------------------------------------
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_ENV = os.getenv("PINECONE_ENV")  # e.g. "us-east-1"
 
 if not OPENAI_API_KEY:
-    raise ValueError("❌ Missing OPENAI_API_KEY in st.secrets.")
+    raise ValueError("❌ Missing OPENAI_API_KEY in .env file.")
 if not PINECONE_API_KEY:
-    raise ValueError("❌ Missing PINECONE_API_KEY in st.secrets.")
+    raise ValueError("❌ Missing PINECONE_API_KEY in .env file.")
+if not PINECONE_ENV:
+    raise ValueError("❌ Missing PINECONE_ENV in .env file.")
 
+# Set API key for OpenAI (synchronous calls)
+openai.api_key = OPENAI_API_KEY
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Instantiate the Pinecone client using the new API
 pc = Pinecone(api_key=PINECONE_API_KEY)
+
+# Optionally, create the index if it doesn't exist
+existing_indexes = [idx.name for idx in pc.list_indexes()]
+if "ai-powered-chatbot" not in existing_indexes:
+    # Assuming the embedding dimension is 1536 for text-embedding-ada-002
+    pc.create_index(
+        name="ai-powered-chatbot",
+        dimension=1536,
+        metric="cosine",  # or 'euclidean' if that's your metric
+        spec=ServerlessSpec(
+            cloud="aws",  # update as needed
+            region=PINECONE_ENV
+        )
+    )
+
+# Retrieve the index object
 index = pc.Index("ai-powered-chatbot")
+
+print("✅ Pinecone index connected successfully!\n")
 
 # Paths
 MERGED_JSON_PATH = "/mnt/c/Users/osato/openai_setup/merged_knowledge_base.json"
@@ -65,14 +95,14 @@ def split_text_by_tokens(text: str, max_tokens: int = 512) -> list[str]:
     for word in words:
         current_words.append(word)
         if count_tokens(" ".join(current_words)) > max_tokens:
-            # finalize current chunk
+            # Finalize current chunk
             current_words.pop()
             chunk_str = " ".join(current_words).strip()
             if chunk_str:
                 chunks.append(chunk_str)
             current_words = [word]
 
-    # leftover words
+    # Leftover words
     if current_words:
         leftover_str = " ".join(current_words).strip()
         if leftover_str:
@@ -134,15 +164,16 @@ def embed_qa_pairs(pairs):
 
         for c_idx, chunk_str in enumerate(text_chunks):
             try:
-                # Generate embedding
-                resp = client.embeddings.create(
+                # Generate embedding using the new lowercase endpoint
+                resp = openai.embeddings.create(
                     model="text-embedding-ada-002",
                     input=chunk_str
                 )
+                # Access the embedding using dot notation
                 vector = resp.data[0].embedding
 
                 chunk_id = f"{doc_id}_chunk{c_idx}"
-                index.upsert([
+                index.upsert(vectors=[
                     {
                         "id": chunk_id,
                         "values": vector,

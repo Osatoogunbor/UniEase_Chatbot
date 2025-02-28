@@ -11,43 +11,71 @@
 - Deployment to Streamlit Sharing using Streamlit Sharing API
 """
 
-from typing import Optional, List
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+app.py
+
+Lightweight version of UniEase:
+ - Removes the large BART summarization to prevent heavy memory usage
+ - Uses a simple text truncation for long chunks
+"""
+
 import asyncio
+import nest_asyncio
+
+# Ensure an event loop exists before applying nest_asyncio
+try:
+    loop = asyncio.get_event_loop()
+except RuntimeError:
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+nest_asyncio.apply()  # Allow nested event loops
+
+import os
+from typing import Optional, List
 import streamlit as st
 import openai
 from openai import AsyncOpenAI
 from pinecone import Pinecone
 from transformers import pipeline
 
-# ✅ Access API keys securely
-OPENAI_API_KEY = st.secrets["openai_api_key"]
-PINECONE_API_KEY = st.secrets["pinecone_api_key"]
+# --------------------------------------------------------------------------
+# Use Streamlit's secrets instead of dotenv
+try:
+    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
+    PINECONE_API_KEY = st.secrets["PINECONE_API_KEY"]
+    PINECONE_ENV = st.secrets["PINECONE_ENV"]  # e.g. "us-east-1"
+except KeyError as e:
+    st.error(f"Missing secret: {e}")
+    raise ValueError(f"Missing secret: {e}")
 
-# ✅ Check if API keys are loaded correctly
 if not OPENAI_API_KEY:
-    raise ValueError("❌ OPENAI_API_KEY not found! Check your Streamlit secrets.")
+    raise ValueError("❌ Missing OPENAI_API_KEY in st.secrets.")
 if not PINECONE_API_KEY:
-    raise ValueError("❌ PINECONE_API_KEY not found! Check your Streamlit secrets.")
+    raise ValueError("❌ Missing PINECONE_API_KEY in st.secrets.")
+if not PINECONE_ENV:
+    raise ValueError("❌ Missing PINECONE_ENV in st.secrets.")
 
-# ✅ Initialize OpenAI & Pinecone
+# Instantiate OpenAI and Pinecone clients
 openai.api_key = OPENAI_API_KEY
+client = AsyncOpenAI(api_key=OPENAI_API_KEY)
 
-# ✅ Define aclient for AsyncOpenAI usage
-aclient = AsyncOpenAI(api_key=OPENAI_API_KEY)
-
+# Initialize Pinecone connection with your API key from st.secrets
 pc = Pinecone(api_key=PINECONE_API_KEY)
+
+# Connect to the existing Pinecone index using the new API:
 index = pc.Index("ai-powered-chatbot")
 
-print("✅ API keys loaded successfully!")
-print("✅ Pinecone and OpenAI clients initialized!")
+print("✅ Pinecone index connected successfully!\n")
 
 # -------------------------------------------------------------------------
-# SET PAGE CONFIG FIRST
+# 2. SET PAGE CONFIG FIRST
 # -------------------------------------------------------------------------
 st.set_page_config(page_title="UniEase Chatbot", layout="wide")
 
 # -------------------------------------------------------------------------
-# ADD CSS STYLING FOR SIDEBAR
+# 3. OPTIONAL: ADD CSS STYLING FOR SIDEBAR
 # -------------------------------------------------------------------------
 st.markdown(
     """
@@ -70,7 +98,7 @@ st.markdown(
 )
 
 # -------------------------------------------------------------------------
-# SIDEBAR
+# 4. SIDEBAR
 # -------------------------------------------------------------------------
 st.sidebar.title("UniEase: University 24/7 Assistant")
 st.sidebar.markdown(
@@ -85,7 +113,7 @@ Welcome to **UniEase**—your university wellbeing companion!
 )
 
 # -------------------------------------------------------------------------
-# SENTIMENT ANALYSIS AND GENERIC INTENT.
+# 5. SENTIMENT ANALYSIS, ETC.
 # -------------------------------------------------------------------------
 sentiment_analyzer = pipeline(
     "sentiment-analysis",
@@ -118,7 +146,8 @@ def detect_generic_intent(query: str) -> Optional[str]:
 
 async def retrieve_chunks(query: str, top_k: int = 5) -> List[dict]:
     try:
-        embedding_resp = await aclient.embeddings.create(
+        # Use the proper client to embed the query
+        embedding_resp = await client.embeddings.create(
             model="text-embedding-ada-002",
             input=query
         )
@@ -160,9 +189,7 @@ async def retrieve_chunks(query: str, top_k: int = 5) -> List[dict]:
     except Exception as e:
         st.error(f"❌ Retrieval Error: {e}")
         return []
-# -------------------------------------------------------------------------
-# RESPONSE GENERATION PROCESS.
-# -------------------------------------------------------------------------
+
 async def generate_response(user_query: str, top_k: int = 5) -> str:
     greeting_reply = detect_generic_intent(user_query)
     if greeting_reply:
@@ -196,7 +223,7 @@ async def generate_response(user_query: str, top_k: int = 5) -> str:
     )
 
     try:
-        chat_response = await aclient.chat.completions.create(
+        chat_response = await client.chat.completions.create(
             model=chosen_model,
             messages=[
                 {"role": "system", "content": system_message},
@@ -204,8 +231,7 @@ async def generate_response(user_query: str, top_k: int = 5) -> str:
             ],
             max_tokens=350,   # Reduced token limit for faster responses
             temperature=0.7,  # Lower randomness
-            top_p=0.5,
-            store = True
+            top_p=0.5
         )
         final_answer = chat_response.choices[0].message.content.strip()
         return final_answer
@@ -234,6 +260,7 @@ def main():
     user_input = st.chat_input("Type your message here...")
     if user_input:
         st.session_state["messages"].append({"role": "user", "content": user_input})
+        # Create a new event loop for the async call
         loop = asyncio.new_event_loop()
         asyncio.set_event_loop(loop)
         response_text = loop.run_until_complete(generate_response(user_input))

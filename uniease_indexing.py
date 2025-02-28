@@ -1,29 +1,58 @@
-
 """
 # UniEase Pinecone Indexing Code
 # This script contains the code for re-indexing the knowledge base into Pinecone.
 """
+
 import json
 import os
 import time
-import streamlit as st
-from openai import OpenAI
-from pinecone import Pinecone
+import openai
+from dotenv import load_dotenv
+from openai import AsyncOpenAI
+from pinecone import Pinecone, ServerlessSpec  # Updated import
+from transformers import pipeline
 
-# Retrieve secrets from Streamlit
-OPENAI_API_KEY = st.secrets["openai_api_key"]
-PINECONE_API_KEY = st.secrets["pinecone_api_key"]
+# --------------------------------------------------------------------------
+# 1. LOAD ENVIRONMENT & INITIALIZE
+# --------------------------------------------------------------------------
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_ENV = os.getenv("PINECONE_ENV")  # e.g. "us-east-1"
 
 if not OPENAI_API_KEY:
-    raise ValueError("❌ OPENAI_API_KEY not found in st.secrets.")
+    raise ValueError("❌ Missing OPENAI_API_KEY in .env file.")
 if not PINECONE_API_KEY:
-    raise ValueError("❌ PINECONE_API_KEY not found in st.secrets.")
+    raise ValueError("❌ Missing PINECONE_API_KEY in .env file.")
+if not PINECONE_ENV:
+    raise ValueError("❌ Missing PINECONE_ENV in .env file.")
 
-# Initialize OpenAI & Pinecone
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Instantiate OpenAI client
+openai.api_key = OPENAI_API_KEY
+client = AsyncOpenAI(api_key=OPENAI_API_KEY)
+
+# Instantiate the Pinecone client using the new API
 pc = Pinecone(api_key=PINECONE_API_KEY)
+
+# Optionally, create the index if it doesn't exist
+existing_indexes = [idx.name for idx in pc.list_indexes()]
+if "ai-powered-chatbot" not in existing_indexes:
+    # Assuming the embedding dimension is 1536 for text-embedding-ada-002
+    pc.create_index(
+        name="ai-powered-chatbot",
+        dimension=1536,
+        metric="cosine",  # or 'euclidean' if that's your metric
+        spec=ServerlessSpec(
+            cloud="aws",  # update as needed
+            region=PINECONE_ENV
+        )
+    )
+
+# Retrieve the index object
 index = pc.Index("ai-powered-chatbot")
 
+print("✅ Pinecone index connected successfully!\n")
 
 # Path to merged knowledge base
 MERGED_JSON_PATH = "/mnt/c/Users/osato/openai_setup/merged_knowledge_base.json"
@@ -59,8 +88,8 @@ def index_qa_pairs(pairs):
         )
         vector = response.data[0].embedding
 
-        # Upsert into Pinecone
-        index.upsert([
+        # Upsert into Pinecone using the index object
+        index.upsert(vectors=[
             {
                 "id": f"qa_{idx}",
                 "values": vector,
@@ -69,7 +98,7 @@ def index_qa_pairs(pairs):
                     "answer": answer
                 }
             }
-        ], )
+        ])
 
         time.sleep(0.1)  # Avoid hitting rate limits
 
