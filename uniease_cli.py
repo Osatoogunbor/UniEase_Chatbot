@@ -5,29 +5,51 @@ It uses the same logic as the main chatbot code only that this is a local versio
 Which can only be used for testing purposes.
 """
 
-from transformers import pipeline
 import asyncio
-import streamlit as st
+import nest_asyncio
+nest_asyncio.apply()  # Allow nested event loops in Jupyter
+
+import os
+import tiktoken
 import openai
+import numpy as np
+
+from dotenv import load_dotenv
 from openai import AsyncOpenAI
-from pinecone import Pinecone
+from pinecone import Pinecone, ServerlessSpec
+from transformers import pipeline
+# --------------------------------------------------------------------------
+# 1. LOAD ENVIRONMENT & INITIALIZE
+# --------------------------------------------------------------------------
+load_dotenv()
 
-
-
-OPENAI_API_KEY = st.secrets["openai_api_key"]
-PINECONE_API_KEY = st.secrets["pinecone_api_key"]
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_ENV = os.getenv("PINECONE_ENV")  # e.g. "us-east-1"
 
 if not OPENAI_API_KEY:
-    raise ValueError("❌ Missing OPENAI_API_KEY in st.secrets.")
+    raise ValueError("❌ Missing OPENAI_API_KEY in .env file.")
 if not PINECONE_API_KEY:
-    raise ValueError("❌ Missing PINECONE_API_KEY in st.secrets.")
+    raise ValueError("❌ Missing PINECONE_API_KEY in .env file.")
+if not PINECONE_ENV:
+    raise ValueError("❌ Missing PINECONE_ENV in .env file.")
 
+# Instantiate OpenAI and Pinecone clients
 openai.api_key = OPENAI_API_KEY
 client = AsyncOpenAI(api_key=OPENAI_API_KEY)
-pc = Pinecone(api_key=PINECONE_API_KEY)
-index = pc.Index("ai-powered-chatbot")
 
+pc = Pinecone(api_key=PINECONE_API_KEY, environment=PINECONE_ENV)
+
+# --------------------------------------------------------------------------
+# 2. CONNECT OR CREATE THE PINECONE INDEX
+# --------------------------------------------------------------------------
+INDEX_NAME = "ai-powered-chatbot"
+index = pc.Index(INDEX_NAME)  # Directly connect to the existing Pinecone index
+print("✅ Connected to Pinecone index:", INDEX_NAME)
+
+index = pc.Index(INDEX_NAME)
 print("✅ Pinecone index connected successfully!\n")
+
 
 # ✅ Load Sentiment Analysis Model
 sentiment_analyzer = pipeline(
