@@ -7,7 +7,7 @@
 - Sentiment analysis for user queries.
 - Retrieval of relevant context chunks from Pinecone index.
 - Generic intent detection for greeting messages.
-- Session state management for chat history.
+- Session state management for chat history..
 - Deployment to Streamlit Sharing using Streamlit Sharing API
 """
 
