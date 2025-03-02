@@ -230,7 +230,7 @@ async def generate_response(user_query: str, top_k: int = 5) -> str:
                 {"role": "user", "content": user_prompt}
             ],
             max_tokens=350,   # Reduced token limit for faster responses
-            temperature=0.7,  # Lower randomness
+            temperature=0.4,  # Lower randomness
             top_p=0.5
         )
         final_answer = chat_response.choices[0].message.content.strip()
